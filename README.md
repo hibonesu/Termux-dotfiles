@@ -1,5 +1,5 @@
 # Termux-dotfiles
-teemux + shizuku
+termux + shizuku
 
 ![Teks Alternatif](https://github.com/hibonesu/Termux-dotfiles/blob/main/1.jpg)
 
