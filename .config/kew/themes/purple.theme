@@ -1,0 +1,60 @@
+# ============================================
+# Purple
+# ============================================
+
+[theme]
+name=Purple
+
+# Core colors
+accent=#9d8ba8
+text=#b1a0bc
+textDim=#a896b0
+textMuted=#6d5f78
+
+# General Colors
+logo=#6d5f78
+header=#9d8ba8
+footer=#6d5f78
+help=#d8d0dc
+link=#8a9a87
+nowplaying=#9d8ba8
+playbackstatus=#6d5f78
+
+# Playlist View
+playlist.rownum=#6d5f78
+playlist.title=#d8d0dc
+playlist.playing=#b09cbd
+
+# Track View
+trackview.title=#9d8ba8
+trackview.artist=#9d8ba8
+trackview.album=#9d8ba8
+trackview.year=#9d8ba8
+trackview.time=#9d8ba8
+trackview.visualizer=#6d5f78
+trackview.lyrics=#9d8ba8
+
+# Library View
+library.artist=#9d8ba8
+library.album=#c5bcc9
+library.track=#c5bcc9
+library.enqueued=#9d8ba8
+library.playing=#b09cbd
+
+# Search
+search.label=#6d5f78
+search.query=#9d8ba8
+search.result=#d8d0dc
+search.enqueued=#9d8ba8
+search.playing=#b09cbd
+
+# Progress
+progress.filled=#6d5f78
+progress.empty=#9d8ba8
+progress.elapsed=#6d5f78
+
+# Status
+status.info=-1      	# Default foreground
+status.warning=#787878  # The old school gray, this works on most terminals
+status.error=#787878  	# The old school gray, this works on most terminals
+status.success=#787878  # The old school gray, this works on most terminals

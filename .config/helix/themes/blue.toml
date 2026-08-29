@@ -1,0 +1,136 @@
+# GENERAL ==============================
+
+warning = { fg = "yellow" }
+error = { fg = "red" }
+info = { fg = "blue" }
+hint = { fg = "magenta" }
+diagnostic = { underline = { style = "curl" } }
+
+# UI ==============================
+
+"ui.background" = { bg = "background" }
+"ui.window" = { fg = "border" }
+"ui.gutter" = { bg = "background" }
+"ui.text" = { fg = "text" }
+"ui.text.focus" = { fg = "text", bg = "element_background" }
+"ui.text.info" = { fg = "text_muted" }
+
+"ui.cursor" = { fg = "cursor", modifiers = ["reversed"] }
+"ui.cursor.primary" = { fg = "cursor", modifiers = ["reversed"] }
+"ui.cursor.insert" = { fg = "cursor", modifiers = ["reversed"] }
+"ui.cursor.select" = { fg = "cursor", modifiers = ["reversed"] }
+"ui.cursor.match" = { fg = "blue", modifiers = ["underlined"] }
+"ui.cursorline.primary" = { bg = "background_elevated" }
+
+"ui.selection" = { bg = "background_elevated" }
+"ui.selection.primary" = { bg = "element_background" }
+
+"ui.linenr" = { fg = "text_muted" }
+"ui.linenr.selected" = { fg = "text", modifiers = ["bold"] }
+
+"ui.virtual" = { fg = "text_muted" }
+"ui.virtual.ruler" = { bg = "element_hover" }
+"ui.virtual.whitespace" = { fg = "text_muted" }
+"ui.virtual.inlay-hint" = { fg = "text_muted", modifiers = ["italic"] }
+
+"ui.statusline" = { fg = "text", bg = "background" }
+"ui.statusline.inactive" = { fg = "text_muted", bg = "background" }
+"ui.statusline.normal" = { fg = "text", bg = "background" }
+"ui.statusline.insert" = { fg = "green", bg = "background", modifiers = ["bold"] }
+"ui.statusline.select" = { fg = "yellow", bg = "background", modifiers = ["bold"] }
+
+"ui.help" = { fg = "text", bg = "background_elevated" }
+"ui.highlight" = { bg = "element_background" }
+
+"ui.menu" = { fg = "text", bg = "background_elevated" }
+"ui.menu.selected" = { fg = "text", bg = "element_background", modifiers = ["bold"] }
+"ui.menu.scroll" = { fg = "text_muted", bg = "background_elevated" }
+
+"ui.popup" = { fg = "text", bg = "background_elevated" }
+
+
+# SYNTAX HIGHLIGHTING ==============================
+
+"property" = { fg = "text" }
+"special" = { fg = "cyan" }
+"attribute" = { fg = "magenta" }
+
+"type" = { fg = "blue" }
+"constructor" = { fg = "blue" }
+
+"constant" = { fg = "green" }
+"constant.builtin.boolean" = { fg = "cyan" }
+"constant.character" = { fg = "yellow" }
+"constant.numeric" = { fg = "cyan" }
+
+"string" = { fg = "yellow" }
+
+"comment" = { fg = "comm", modifiers = ["italic"] }
+
+"variable" = { fg = "text" }
+"variable.builtin" = { fg = "cyan" }
+"variable.parameter" = { fg = "magenta" }
+
+"label" = { fg = "cyan" }
+
+"punctuation" = { fg = "text_muted" }
+"punctuation.delimiter" = { fg = "blue" }
+
+"keyword" = { fg = "green" }
+"operator" = { fg = "green" }
+
+"function" = { fg = "cyan" }
+"tag" = { fg = "blue" }
+"tag.error" = { fg = "red" }
+"namespace" = { fg = "blue" }
+
+
+# MARKUP ==============================
+
+"markup.heading.1" = { fg = "red", modifiers = ["bold"] }
+"markup.heading.2" = { fg = "green", modifiers = ["bold"] }
+"markup.heading.3" = { fg = "yellow", modifiers = ["bold"] }
+"markup.heading.4" = { fg = "blue", modifiers = ["bold"] }
+"markup.heading.5" = { fg = "cyan", modifiers = ["bold"] }
+"markup.heading.6" = { fg = "magenta", modifiers = ["bold"] }
+"markup.heading.marker" = { fg = "text_muted" }
+
+"markup.list" = { fg = "text" }
+"markup.bold" = { fg = "text", modifiers = ["bold"] }
+"markup.italic" = { fg = "text", modifiers = ["italic"] }
+
+"markup.link.url" = { fg = "magenta", modifiers = ["underlined"] }
+"markup.link.label" = { fg = "magenta" }
+"markup.link.text" = { fg = "blue" }
+
+"markup.quote" = { fg = "yellow" }
+"markup.normal" = { fg = "text" }
+"markup.raw" = { fg = "yellow" }
+
+# DIFF ==============================
+
+"diff.plus" = { fg = "green" }
+"diff.minus" = { fg = "red" }
+"diff.delta" = { fg = "yellow" }
+"diff.delta.moved" = { fg = "blue" }
+
+# PALETTE ==============================
+
+[palette]
+background = "#000000"
+background_elevated = "#1e2a44"
+border = "#313a5f"
+text = "#cdd6f4"
+text_muted = "#5169a0"
+text_placeholder = "#5169a0"
+text_accent = "#89b4fa"
+element_background = "#2b3b64"
+element_hover = "#1e2a44"
+red = "#4564a8"
+green = "#5b7cc0"
+yellow = "#7394d6"
+blue = "#89b4fa"
+cyan = "#a6c2f7"
+magenta = "#c0d6f9"
+comm = "#40507a"
+cursor = "#89b4fa"

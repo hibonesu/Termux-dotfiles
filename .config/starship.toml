@@ -1,0 +1,89 @@
+# --- LAYOUT FORMAT ---
+format = """
+$os\
+$directory\
+$git_branch\
+$git_status\
+$nodejs\
+$bun\
+$rust\
+$golang\
+$cmd_duration\
+\n$character"""
+
+
+# --- CHARACTER / PROMPT ---
+[character]
+success_symbol = '[ > ](bold #89b4fa)'
+error_symbol = '[ x ](bold #313a5f)'
+
+# --- OS ---
+[os]
+disabled = true
+style = "fg:#89b4fa"
+format = "[ $symbol ]($style)"
+
+[os.symbols]
+Arch = "󰣇"
+Ubuntu = "󰕈"
+Manjaro = ""
+Fedora = "󰣛"
+Debian = "󰣚"
+Macos = "󰀵"
+Windows = "󰍲"
+Linux = "󰌽"
+Android = "󰣇"
+
+# --- DIRECTORY ---
+[directory]
+style = "fg:#cdd6f4"
+format = "[ $path ]($style)"
+truncation_symbol = "~/"
+truncation_length = 3
+fish_style_pwd_dir_length = 0
+
+
+[directory.substitutions]
+"Documents" = "󰈙 Documents"
+"Downloads" = " Downloads"
+"Music" = " Music"
+"Pictures" = " Pictures"
+"Projects" = "󰲋 Projects"
+
+# --- GIT ---
+[git_branch]
+symbol = ""
+style = "fg:#e1ebff"
+format = ' (fg:#2b3b64)[ $symbol $branch ]($style)(fg:#2b3b64)'
+
+[git_status]
+style = "bg:#2b3b64 fg:#89b4fa"
+format = '([ $all_status$ahead_behind ]($style))'
+
+# --- LANG/PROGRAMMING MODULES ---
+[nodejs]
+symbol = ""
+style = "bg:#313a5f fg:#a6c2f7"
+format = ' (fg:#313a5f)[ $symbol ($version) ]($style)(fg:#313a5f)'
+
+[bun]
+symbol = ""
+style = "bg:#313a5f fg:#a6c2f7"
+format = ' (fg:#313a5f)[ $symbol ($version) ]($style)(fg:#313a5f)'
+
+[rust]
+disabled = true
+symbol = ""
+style = "bg:#313a5f fg:#a6c2f7"
+format = ' (fg:#313a5f)[ $symbol ($version) ]($style)(fg:#313a5f)'
+
+[golang]
+symbol = ""
+style = "bg:#313a5f fg:#a6c2f7"
+format = ' (fg:#313a5f)[ $symbol ($version) ]($style)(fg:#313a5f)'
+
+[php]
+symbol = ""
+style = "bg:#313a5f fg:#a6c2f7"
+format = ' (fg:#313a5f)[ $symbol ($version) ]($style)(fg:#313a5f)'
+

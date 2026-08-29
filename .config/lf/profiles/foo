@@ -1,0 +1,3 @@
+set info size
+set promptfmt "\033[32m%u\033[34m%d\033[0m%f"
+set ratios 1:1

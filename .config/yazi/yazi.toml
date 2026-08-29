@@ -1,0 +1,27 @@
+# ~/.config/yazi/yazi.toml
+
+[mgr]
+ratio          = [ 0, 5, 3]
+sort_by        = "none"
+sort_sensitive = false
+sort_reverse   = false
+sort_dir_first = true
+show_hidden    = false
+show_symlink   = true
+
+[status]
+# Menyembunyikan status bar di bagian bawah agar layar bersih
+show_separator = false
+show_position  = false
+show_percent   = false
+
+[theme]
+border_symbol = " "
+use = "theme.toml"
+
+[preview]
+max_width  = 1000
+max_height = 1000
+image_quality = 50
+
+

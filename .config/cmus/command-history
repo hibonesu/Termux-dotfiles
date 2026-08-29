@@ -1,0 +1,34 @@
+shell 3
+add /storage/4572-1409/music
+clea
+set repeat_current=true
+shell !
+shell 66
+set color_win_cur_sel_bg=default
+shell 567
+set color_statusline_progress_bg=black
+set color_statusline_fg=gray
+set color_statusline_fg=grey
+set color_statusline_bg=default
+set color_statusline_bg=blue
+set color_statusline_fg=blur
+set color_statusline_fg=black
+set color_statusline_fg=default
+set color_win_cur=lightyellow
+set color_win_cur=lightblue
+set color_win_cur=lightred
+set color_win_cur=blue
+set color_win_cur=l
+set color_win_cur_sel_bg=blue
+set color_win_cur_sel_bg=yellow
+set color_win_cur_sel_bg=purple
+set color_win_cur_sel_bg=red
+set color_win_cur_sel_bg=green
+set color_win_cur_sel_bg=default1
+add ~/storage/external-1/
+set repeat_current=false
+clear
+add /storage/4572-1409/music/break
+set mpris=false
+set output_plugin=pulse
+q

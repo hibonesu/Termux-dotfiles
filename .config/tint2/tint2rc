@@ -1,0 +1,158 @@
+# ==============================================================================
+# TINT2 MODERN UNDERLINE CONFIGURATION
+# Palette: Deep Navy & Ice Blue Accent
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# BACKGROUNDS
+# ------------------------------------------------------------------------------
+# Background 1: Panel Utama (Transparan Hitam)
+rounded = 0
+border_width = 0
+background_color = #000000 80
+border_color = #000000 0
+
+# Background 2: Task Inaktif / Normal
+rounded = 4
+border_width = 0
+background_color = #1e2a44 60
+border_color = #313a5f 100
+
+# Background 3: Task Aktif (Warna Accent Underline)
+rounded = 4
+border_width = 0
+background_color = #313a5f 80
+border_color = #89b4fa 100
+
+# Background 4: Task Hover / Urgent
+rounded = 4
+border_width = 0
+background_color = #2b3b64 70
+border_color = #6080c5 100
+
+# Background 5: Tooltip / Popup System Tray
+rounded = 6
+border_width = 1
+background_color = #000000 95
+border_color = #40507a 100
+
+# ------------------------------------------------------------------------------
+# PANEL LAYOUT
+# ------------------------------------------------------------------------------
+panel_items = LTSC
+panel_size = 100% 38
+panel_margin = 0 0
+panel_padding = 8 4 8
+panel_background_id = 1
+wm_menu = 1
+panel_dock = 0
+panel_pivot_struts = 0
+panel_position = top center horizontal
+panel_layer = top
+monitor = all
+autohide = 0
+strut_policy = follow_size
+
+# ------------------------------------------------------------------------------
+# LAUNCHER (L)
+# ------------------------------------------------------------------------------
+launcher_padding = 8 4 8
+launcher_background_id = 0
+launcher_icon_background_id = 0
+launcher_icon_size = 20
+launcher_icon_asb = 100 0 0
+launcher_icon_theme_override = 0
+
+# Ubah path launcher sesuai kebutuhan Anda
+launcher_item_app = /usr/share/applications/rofi.desktop
+launcher_item_app = /usr/share/applications/firefox.desktop
+launcher_item_app = /usr/share/applications/org.gnome.Terminal.desktop
+
+# ------------------------------------------------------------------------------
+# TASKBAR / TASKS (T) - Modern Underline Style
+# ------------------------------------------------------------------------------
+taskbar_mode = single_desktop
+taskbar_hide_if_empty = 0
+taskbar_padding = 6 0 6
+taskbar_background_id = 0
+taskbar_active_background_id = 0
+taskbar_name = 1
+taskbar_hide_inactive_tasks = 0
+taskbar_hide_different_monitor = 0
+taskbar_hide_different_desktop = 0
+taskbar_always_show_all_desktop_tasks = 0
+taskbar_name_padding = 6 3
+taskbar_name_background_id = 0
+taskbar_name_active_background_id = 0
+taskbar_name_font = Sans Bold 9
+taskbar_name_font_color = #7494d4 100
+taskbar_name_active_font_color = #89b4fa 100
+taskbar_distribute_size = 0
+taskbar_sort_order = none
+
+# Formating Item Task
+task_icon = 1
+task_text = 1
+task_centered = 1
+task_maximum_size = 180 34
+task_padding = 8 3
+
+task_font = Sans 9.5
+task_tooltip = 1
+task_thumbnail = 1
+
+# Status Normal / Inaktif
+task_font_color = #a4c2f4 90
+task_background_id = 2
+task_icon_asb = 90 0 0
+
+# Status Aktif (Fokus menggunakan aksen warna #89b4fa dan #e1ebff)
+task_active_font = Sans Bold 9.5
+task_active_font_color = #e1ebff 100
+task_active_background_id = 3
+task_active_icon_asb = 100 0 0
+
+# Status Urgent
+task_urgent_font_color = #e1ebff 100
+task_urgent_background_id = 4
+task_urgent_icon_asb = 100 0 0
+
+# Status Minimized / Iconified
+task_iconified_font_color = #5169a0 80
+task_iconified_background_id = 2
+task_iconified_icon_asb = 70 0 0
+
+# Status Hover
+task_hover_background_id = 4
+
+# ------------------------------------------------------------------------------
+# SYSTEM TRAY (S)
+# ------------------------------------------------------------------------------
+systray_padding = 8 4 8
+systray_background_id = 0
+systray_sort = ascending
+systray_icon_size = 18
+systray_icon_asb = 100 0 0
+systray_monitor = 1
+
+# ------------------------------------------------------------------------------
+# CLOCK / JAM (C)
+# ------------------------------------------------------------------------------
+time1_format = %H:%M
+time1_font = Sans Bold 10
+time2_format = %A, %d %b
+time2_font = Sans 8
+clock_font_color = #cdd6f4 100
+clock_padding = 8 4
+clock_background_id = 0
+clock_lclick_command = gsimplecal
+
+# ------------------------------------------------------------------------------
+# TOOLTIP
+# ------------------------------------------------------------------------------
+tooltip_show_timeout = 0.4
+tooltip_hide_timeout = 0.1
+tooltip_padding = 6 8
+tooltip_background_id = 5
+tooltip_font_color = #cdd6f4 100
+tooltip_font = Sans 9

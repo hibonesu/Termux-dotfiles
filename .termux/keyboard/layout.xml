@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keyboard name="QWERTY" script="latin">
+  <row>
+    <key c="q" ne="1" se="esc"/>
+    <key c="w" ne="2" sw="&quot;"/>
+    <key c="e" nw="!" ne="3" sw="£"/>
+    <key c="r" ne="4" sw="$"/>
+    <key c="t" ne="5" sw="%"/>
+    <key c="y" ne="6" sw="^"/>
+    <key c="u" ne="7" sw="&amp;"/>
+    <key c="i" ne="8" sw="*"/>
+    <key c="o" nw="loc accent_macron" ne="9" sw="(" se=")"/>
+    <key c="p" ne="0"/>
+  </row>
+  <row>
+    <key shift="0.5" c="a" nw="tab" ne="`"/>
+    <key c="s"/>
+    <key c="d"/>
+    <key c="f" nw="loc accent_dot_above"/>
+    <key c="g" ne="-" sw="_"/>
+    <key c="h" ne="=" sw="+"/>
+    <key c="j" sw="{" se="}"/>
+    <key c="k" sw="[" se="]"/>
+    <key c="l" nw="\#" ne="~" sw="'" se="\@"/>
+  </row>
+  <row>
+    <key width="1.5" c="shift" ne="loc capslock"/>
+    <key c="z" ne="|" sw="\\"/>
+    <key c="x"/>
+    <key c="c" ne="&lt;"/>
+    <key c="v" ne=">" sw=","/>
+    <key c="b" ne="\?" sw="/"/>
+    <key c="n" ne=":" sw="," se=";"/>
+    <key c="m" sw="."/>
+    <key width="1.5" c="backspace" ne="delete"/>
+  </row>
+</keyboard>

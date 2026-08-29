@@ -1,0 +1,28 @@
+theme = "blue"
+
+[editor]
+line-number = "relative"
+mouse = false
+cursorline = true
+auto-completion = true
+true-color = true
+
+[editor.cursor-shape]
+insert = "underline"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[editor.statusline]
+left = ["mode", "spinner", "file-name", "read-only-indicator", "file-modification-indicator"]
+
+[editor.auto-pairs]
+'(' = ')'
+'{' = '}'
+'[' = ']'
+'"' = '"'
+'`' = '`'
+'<' = '<'
+'>' = '>'

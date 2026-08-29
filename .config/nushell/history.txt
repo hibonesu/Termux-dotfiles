@@ -1,0 +1,6044 @@
+ls
+clear
+apt install onefetch
+onefetch
+apt install starship
+mkdir ($nu.data-dir | path join "vendor/autoload")
+starship init nu | save -f ($nu.data-dir | path join "vendor/autoload/starship.nu")<\n>
+exit
+cd ..
+apt install bat
+cd
+ls /storage
+ls /storage/4572-1409/LOST.DIR/ | where type == file
+cp -r /storage/4572-1409/LOST.DIR/rish /data/data/com/termux/files/usr/bin/
+cp -r /storage/4572-1409/LOST.DIR/rish /data/data/com.termux/files/usr/bin/
+cp -r /storage/4572-1409/LOST.DIR/rish_shizuku.dex /data/data/com.termux/files/usr/bin/
+cd ..
+cd usr/bin
+chmod +x rish
+rish
+clear
+ls
+cd
+clear
+ls
+ytfzf
+clear
+ls
+exit
+kew
+clear
+ls
+eic
+exot
+exit
+zellij
+exit
+ls
+cd ..
+cd usr/bin
+cd ..
+cd etc
+rm motd
+cd
+clear
+ytfzf
+clear
+cd ..
+cd usr/bin
+hx apps.sh
+cd
+clear
+cd .config/zellij
+ls
+hx config.kdl
+exit
+exit
+exit
+zellij
+clear
+ls
+hx config.kdl
+zellin
+exit
+lew
+kew
+exit
+exit
+zellij
+hx config.kdl
+zellji
+exit
+zellij
+hx config.kdl
+exit
+zellij
+hx config.kdl
+exit
+exit
+cd
+clear
+kew path "/storage/4572-1409/music"
+kew
+cler
+clear
+exit
+kew
+exit
+exit
+zellij
+apt autoremove zellin
+apt autoremove zellij
+apt install tmux
+cd
+clear
+exit
+ls
+clear
+apt install rsfetcj
+apt install rsfetch
+ls --icon
+ls --icons
+clear
+exit
+tmux
+curl -fsSL https://raw.githubusercontent.com/CRAG666/nu_ls_icons/main/lsi.nu | save -f ~/.config/nushell/lsi.nu
+apt install curl
+apt install yazi --no-install-recommends
+apt install file
+yazo
+yazi
+clear
+hx config nu
+config nu
+exit
+ytfzf
+exit
+curl -fsSL https://raw.githubusercontent.com/CRAG666/nu_ls_icons/main/lsi.nu | save -f ~/.config/nushell/lsi.nu
+cd .config/nushell
+ls
+config nu
+exit
+ls
+> ls | grid --icons --color name
+ls | grid --icons --color name
+ls --icons --color name
+ls --icons --color
+cd .config/yazi
+mkdir -p .config/yazi
+mkdir .config/yazi
+cd .config/yazi
+ls
+mkdir themes
+cd themes
+hx theme-dark.toml
+clear
+cd
+cd storage/shared
+cd dotfiles/.termux
+hx colors.properties
+nano colors.properties
+cd
+cd .config/yazi
+cd themes
+hx theme-dark.toml
+cd
+config nu
+cd .config/yazi
+ls
+cd themes
+ls
+mv theme-dark.toml theme.toml
+ls
+cp -r theme.toml ~/.config/yazi/
+cd ..
+ls
+rm -rf themes
+ls
+clear
+ls
+cd
+cd .config/nushe
+cd .config/nushell
+ls
+hx lsi.nu
+clear
+exit
+ls
+mount | grep no
+clear
+ls
+ll
+rm no
+ls
+clear
+ls
+clear
+fastfetch
+apt install fastfetch
+clear | fastfetch
+ls
+cd .config/nushell
+ls
+clear
+cd ..
+ls
+cd
+clear
+clear | fastfetch
+ls storage/shared | get name
+clear
+clear; fastfetch
+ls storage/shared/pictures | get name
+ls
+clear
+ls
+cd
+clear
+cd ..
+ls
+cd
+clear
+ls
+clear
+fastfetch
+ls
+clear
+cd .config/yazi
+ls
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazi
+hx yazi.toml
+yazo
+yazi
+yazo
+hx yazi.toml
+yazi
+clear
+hx yazi.toml
+ls
+yazi
+hx yazi.toml
+yazi
+clear
+ls
+hx theme.toml
+clear
+hx yazi.toml
+yazi
+cd
+ls .cache | get name
+hx .config/yazi/yazi.toml
+ls /storage/4572-1409/
+mkdir /storage/4572-1409/yazi-cache
+cd storage/media-1
+pwd
+clear
+la
+ll
+cd 
+cd storage
+ll
+cd media-1
+mkdir yazi-cache
+ls
+cd
+clear
+hx .config/yazi/yazi.toml
+yazi
+hx .config/yazi/yazi.toml
+yazi
+cd storage/media-1
+cd yazi-cache
+ls
+la
+cd
+yazi --clear-cache
+hx .config/yazi/yazi.toml
+ya env
+yazi --clear-cache
+yazi
+yazi --clear-cache
+hx .config/yazi/yazi.toml
+yazi
+yazi env
+yazi --help
+clear
+yazi --clear-cache
+yazi
+cd storage/media-1/yazi-cachr
+cd storage/media-1/yazi-cache
+ls
+clear
+cd
+hx .config/yazi/yazi.toml
+yazi
+yazi | yazi --clear-cache
+yazi --clear-cache
+clear
+fzf
+clear
+ls
+la
+ll
+clear
+rish
+ls storage/shared/
+ls storage/shared/ | get name
+clear
+ls storage/shared/DCIM | get name
+ls
+clear
+ls
+bash
+apt install tsu
+tsu
+clear
+su
+clear
+ls
+rm -rf no
+cd .config/nushell
+ls
+hx config.nu
+hx env nu
+hx env.nu
+exit
+env nu
+exit
+ls
+clear
+exit
+ytfzf
+clear
+ls
+clear
+ls
+cd .config/nushell
+ls
+clear
+cd
+clear
+yazi
+clear
+cd .config/fastfetch
+ls
+hx config.jsonc
+clear | fastfetch
+ls
+ls ~/
+ls $env.HOME
+clear
+cd
+ls
+clear
+cd
+clear
+rm -rf .cache
+clear
+la
+sall
+ll
+clear
+ls
+ll
+clear
+ls
+la
+clear
+clear | fastfetch
+ls ~/storage/shared | get name
+clear
+ls
+cd .config/nushell
+ls
+hx env.ny
+hx env.nu
+nano env.nu
+hx config.nu
+exit
+ls
+ls ~/
+ls ~/storage/shared | get name
+ls
+clear
+ls
+ls .config/nushell
+clear
+ls
+clear | fastfetch
+ls storage/shared | get name
+clear
+ls $env.HOME/storage/shared
+ls $env.HOME
+clear
+config nu
+source ~/.config/nushell/config.nu
+ls
+exit
+ls ~
+ls ~/storage/shared | get name
+ls -s ~/storage/shared
+clear
+config nu
+config env
+source ~/.config/nushell/env.nu
+ls
+ls .config/nushell
+ls storage/shared | get name
+ls storage/shared
+clear
+ls
+ls storage
+clear
+config env
+hx .config/starship.tomp
+hx .config/starship.toml
+source ~/.config/nushell/env.nu
+exit
+ls
+ls storage/shared | get name
+ls storage/shared
+clear
+ls
+ls ~/
+clear
+ls ~/storage/shared/pictures
+ls ~/storage/shared/pictures | get name
+cd storage/shared
+ls
+clear
+clear | fastfetch
+ls | where type == file
+clear
+cd
+yazi
+clear
+cd storage/shared/dotfiles
+ls
+cd .config/nushell
+ls
+pwd
+clear
+ls
+hx config.nu
+mv config.nu config.txt
+ls
+hx config.txt
+../..
+hx apps.sh
+ls
+mv apps.sh apps.txt
+hx ytfzf
+mv ytfzf ytfzf.txt
+exit
+dust
+exit
+ytfzf
+clear
+ls
+config env
+config nu
+nano .config/nushell/config.nu
+config env
+la
+exit
+rm no
+ls
+la
+clear
+ls
+clear
+cd .x
+cd .config/nushell
+ls
+clear
+ls
+la
+config nu
+config env
+cd
+ls
+clear
+ls ~/storage/shared/pictures | get name
+cd ~/storage/shared/pictures; ls | get name
+clear
+ls
+clear
+cd
+ytfzf
+clear
+kew
+clear
+kew | ignore
+kew err>| ignore
+kew 
+kew | ignore
+clear
+clear | fastfetch
+exit
+cd storage/shared/
+ls
+cd download
+ls
+cd Canva
+ls
+mv  "Resep Nasi Goreng Spesial_20260807_220307_0000.pdf" nasgor.pdf
+ls
+clear
+cd
+cd storage/shared/download
+ls
+cd canva
+ls
+rm nasgor.pdf
+mv  "nasgor.pdf_20260807_223333_0000.pdf" nasgor.pdf
+ls
+clear
+cd
+clear
+exit
+cd storage/shared/download/Canva
+s
+ls
+clear
+exit
+ytfzf
+clear
+ytfzf
+clear
+cargo new project
+cd project
+cd src
+hx main.rs
+cargo run
+clear
+cd ..
+cd
+cleaer
+clear
+clear | fastfetch
+apt install btm
+apt install bottom
+hx yt.nu
+chmod +x yt.nu
+./yt.nu
+hx yt.nu
+bash
+hx yt.nu
+ytfzf
+./yt.nu
+cleat
+hx yt.nu
+ansii --help
+ansii
+ascii
+ascii --help
+help ansi
+print $(ansii blue)
+hx yt.nu
+hx ~/.termux/colors.properties
+clear
+print $(ansi blue)
+print $(ansii )
+help ansi
+print $(ansii '#6080c5')hello
+exit
+exit
+print $"(ansii '#6080c5')" 
+help ansi
+print $"(ansi '#6080c5')" | echo "hello worlf"
+hx ~/.termux/colors.properties
+print $"(ansi '#89b4fa')" | echo "hello worlf"
+clear
+hx yt.nu
+./yt.nu
+hx yt.nu
+./yt.nu
+ytfzf
+cp -r $PREFIX/usr/bin/ytfzf ~/
+ls
+cd downloads
+ls
+cd
+ls
+cd ..
+cd usr/bin
+cp -r ytfzf ~/
+cd
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+apt install cava
+cava
+mkfifo /tmp/cava_pipe<\n>
+ls
+mkfifo /tmp/cava_pipe ~<\n>
+mkfifo ~/.config/cava<\n>
+mkfifo ~/.config/cava.pipe<\n>
+cd .config/cava
+ls
+la
+cd ..
+ls
+ll
+clear
+ls cava.pipe | get mode
+ls cava.pipe | get modified
+ls
+ls cava.pipe | get uid
+ls
+ll
+clear
+ls
+cd
+hx ytfzf
+cd .config/cava
+hx config
+./ytfzf
+exit
+cva
+mkfifo $PREFIX/tmp/cava_pipe<\n>
+bash
+hx ytfzf
+pkill -9 cava
+pkill cava
+pkill all cava
+pkill --help
+pkill --fyll cava
+pkill --full cava
+clear
+ytfzf
+hx ytfzf
+cd storage/shared/dcim
+ls
+cd video
+ls
+mpv --af=lavfi=astats "Pinterest video #1118933469907738602.mkv"
+mpv --no-video --af=lavfi=showspectrum=mode=combined:slide=scroll "Pinterest video #1118933469907738602.mkv" 
+mpv --af=lavfi=aphasemeter="video=false" "Pinterest video #1118933469907738602.mkv"
+clear
+ls
+apt install nerdf
+apt install nerd-fonts
+apt install nerd-font
+clear
+ls
+cd
+clear
+clear | fastfetch
+pulseaudio --start
+hx ytfzf
+cava
+./ytfzf
+pkill pulseaudio
+pulseaudio --start
+pulseaudio
+cd .config/pulse
+ls
+cd ..
+rm -rf pulse
+mkdir pulse
+cd
+pulseaudio --start
+kew
+cava
+cmus
+kew
+exit
+cava
+exit
+tmux
+bash
+pulseaudio --start
+./ytfzf
+cd .config/pulse
+ls
+bash
+exit
+exit
+pulseaudio --start
+exit
+pulseaudio --start<\n>
+cd storage/shared/dcim/vidro
+cd storage/shared/dcim/video
+ls
+mpv --af=lavfi=aphasemeter="video=false" "Pinterest video #1118933469907738602.mkv"
+mpv --help
+mpv --list
+mpv --list-options
+ls
+mpv --ao=pulse "Pinterest video #1118933469907738602.mkv"
+pkill pulseaudio
+pulseaudio --kill
+pulseaudio --killall
+pulseaudio --kill
+exit
+config env
+exit
+ca a
+cava
+exit
+./ytfzf
+tmux send-keys -t skripsiku:0.0 "echo 'Panel Kiri'" C-m
+tmux send-keys -t "cava" C-m
+tmux split-window -h -t skripsiku:0
+tmux split-window -h -t 
+tmux split-window -h -t "cava"
+exit
+tmux
+tmux new-session -d -s skripsiku -n "Utama"
+tmux-session
+session-tmux
+ux
+la
+exit
+tmux
+tmux --kill
+tmux --help
+tmux new-session -d -s sesiku -n "cava"
+tmux new-session -d -s sesiku -n "Skrip"
+exit
+tmux
+pkill tmux
+killall tmux
+tmux new-session -d -s sesiku -n "Skrip"
+tmux new-session -d -s n -n "Skrip"
+exit
+tmux
+tmux list-session
+exit
+tmux a -t skripsiku
+exit
+tmux a -t sesiku
+hx sesi
+tmux split-window -h -t
+tmux split-window
+exit
+exit
+tmux
+hx sesi
+chmod +x sesi
+cava
+exit
+./sesi
+tmux list-session
+exit
+tmux a -t n
+tmux list-session
+exit
+tmux
+hx sesi
+./sesi
+tmux list-session
+exit
+tmux a -t playing
+hx sesi
+./sesi
+ls
+tmux list-session
+exit
+tmux a -t playing
+hx sesi
+tmux list-session
+exit
+./sesi
+hx sesi
+./sesi
+hx sesi
+tmux list-session
+./sesi
+hx sesi
+exit
+./sesi
+hx sesi
+./sesi
+hx sesi
+exit
+./sesi
+exit
+hx sesi
+exit
+./sesi
+exit
+hx sesi
+exit
+./sesi
+exit
+hx sesi
+exit
+./sesi
+hx sesi
+./sesi
+hx sesi
+tmux kill-server
+hx sesi
+exit
+exit
+./sesi
+hx sesi
+exit
+./sesi
+exit
+hx sesi
+kew
+exit
+./sesi
+exit
+hx sesi
+exit
+./sesi
+hx sesi
+./ytfzf
+exit
+./sesi
+hx sesi
+exit
+./sesi
+hx sesi
+exit
+./sesi
+hx sesi
+exit
+./sesi
+hx sesi
+exit
+./sesi
+hx sesi
+exit
+./sesi
+hx sesi
+exit
+./sesi
+hx sesi
+exit
+./sesi
+exit
+./sesi
+hx sesi
+exit
+./sesi
+clear
+exit
+hx ytfzf
+hx sesi
+tmux list-session
+./ytfzf
+hx sesi
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+tmux list-session
+tmux a -t playing
+./ytfzf
+hx ytfzf
+./ytfzf
+tmux list-session
+exit
+hx ses
+hx sesi
+exit
+hx ytfzf
+tmux list-session
+exit
+./ytfzf
+hx ytfzf
+tmux list-session
+tmua a -t playing:
+tmua a -t playin
+tmua a -t playing
+tmux a -t playing
+exit
+tmux a -t playing
+hx ytfzf
+config env
+killall pulseaudio
+exit
+./ytfzf
+exit
+yazi
+yazi --clear-cache
+clear
+ls
+rm -r -f downloads
+ls
+clear
+ls
+ytfzf
+kew
+cava
+netstat -tulpn 2>/dev/null || ss -tulpn
+tsu
+bash
+./ytfzf
+exit
+tsu
+con
+config 
+config env
+hx ytfzf
+./ytfzf
+tsu
+fastfetch
+tsu
+basj
+bash
+tsu
+clear
+cava
+caba
+cava
+cav
+caba
+cava
+ls .termux/colors.properties | open
+ls .termux | open colors.properties
+ls .termux/ | open colors.properties
+cd .termux/ | open colors.properties
+cd
+cava
+cd .termux/ | open colors.properties
+cab
+cava
+nano ~/.config/cava/config
+cd
+cd .config/cava
+ls
+cd ..
+rm -r -f cava
+la
+cd
+cava
+exit
+exit
+pip install mutagen
+apt install aria2
+la storage/shared/dotfiles | where type == file | get name
+cd ..
+cd
+ls storage/shared/script | where type == file | get name
+cp -r storage/shared/script/dmusic /data/data/com.termux/files/usr/bin
+cd ..
+cd usr/bin
+hx dmusic
+chmod +x dmusic
+cd
+dmusic "https://m.youtube.com/watch?v=2m63KCm8UF8"
+dmusic ""
+dmusic "https://m.youtube.com/watch?v=MOR2_aXoBYY"
+dmusic "https://m.youtube.com/watch?v=cS83afvOTJ8"
+dmusic ""
+dmusic "https://m.youtube.com/watch?v=hdbB9Ulu19Y&pp=ygUXQ2hpbGwgYnJlYWtjb3JlL2RuYiBNaXg%3D"
+cd ..
+cd usr/bin
+hx dmusic
+dmusic ""
+dmusic "https://m.youtube.com/watch?v=Q5yObzbmg14&pp=ygUXQ2hpbGwgYnJlYWtjb3JlL2RuYiBNaXjSBwkJxAsBhyohjO8%3D"
+kew path "~/storage/external-1/"
+kew
+dmusic ""
+dmusic "https://m.youtube.com/watch?v=74Cu39Y3O_I&t=409s&pp=ygUXQ2hpbGwgYnJlYWtjb3JlL2RuYiBNaXg%3D"
+./ytfzf
+exit
+clear
+kew
+clear
+exit
+kew
+clear
+help let
+la storage/shared/dotfiles | let files
+reset
+exit
+kew
+clear
+kew
+clear
+ytfzf
+reset
+ytfzf
+kew
+clesr
+clear
+cd m.
+..
+cd usr/bin
+hx dmusic
+nano dmusic
+hx dmusic
+dmusic "https://m.youtube.com/watch?v=WXnHNGIhS7o&pp=ygUaYnJlYWtjb3JlL2RuYiBtaXggdG8gc3R1ZHk%3D"
+kew
+dmusic "https://m.youtube.com/watch?v=GF7JarF5TPE&pp=ygUSYnJlYWtjb3JlL2RuYiBtaXgg0gcJCcQLAYcqIYzv"
+kee
+cd 
+cd .config
+hx starship.nu
+hx starship.toml
+cd
+clear
+kew
+kew
+exit
+clear
+kew
+clear
+ytfzf
+exit
+kew
+clesr
+clear
+apt install zellij
+kew
+clear
+kew
+exit
+exit
+exit
+zellij
+exit
+ls
+clear
+kew
+eexit
+exit
+exit
+exit
+apt autoremove zellij
+reset
+apt autoremove zellij
+exit
+ls
+clear
+exit
+exit
+tmux
+exit
+tmux
+exit
+tmux
+exit
+exit
+exit
+tmux
+exit
+exit
+tmux
+exit
+exit
+tmux
+exit
+exit
+cava
+exit
+./ytfzf
+exit
+tmux
+exit
+yazi
+clear
+./ytfzf
+exit
+ytfzf
+clear
+apt install mapscii
+apt install mapsci
+apt install mapsaci
+exit
+./ytfzf
+kew
+clear
+reset
+clear
+Tke
+lew
+kew
+clear
+clear | fastfetch
+zellij
+clear
+ls
+cd ~
+ls
+cd ~
+ls
+cd "~"
+ls
+clear
+ll
+cd "./~"
+ls
+ll
+cd ..
+rm -rf "./~"
+ls
+cleae
+clear
+clear | fastfetch
+la
+./ytfzf
+reset
+./ytfzf
+kew
+ytfzf
+exit
+ytfzf
+yazi
+kew
+exit
+kew
+kew
+ytfzf
+redet
+reset
+kew
+ytfzf
+reset
+ytfzf
+clear
+./ytfzf
+kew
+clear
+reset
+clear
+apt install machinna rust
+apt search macchina
+apt install macchina
+macchina
+clear
+apt autoremove fastfetch
+cd .config
+mkdir macchina
+cd macchina
+ls
+hx theme.toml
+ls
+mkdir themes
+mv themes.toml ~/.config/macchina/themes/
+ls
+mv theme.toml ~/.config/macchina/themes/
+ls
+cd themes
+ls
+cd ..
+hc macchina.toml
+hx macchina.toml
+macchina
+apt install fastfetch
+apt autoremove macchina
+clear
+cd
+clear
+apt install pkg-config
+apt install make
+apt install ripgrep
+apt install bottom
+cargo install bottom
+bash
+dush
+dust
+clear
+dust
+nushell --help
+help
+dust | sort-by size
+dh -sh | sort-by size
+df -h | sort-by size
+help sort-by
+df -h | sort-by reverse
+df -h | sort-by --reverse
+df -h | sort --reverse
+df -h
+clear
+exit
+exit
+cd ..
+hx usr/bin/dmusic
+dmusic ""
+dmusic "https://youtu.be/-DX7-CqCO8E?si=99odER-2ccrZpd_V"
+hx usr/bin/dmusic
+dmusic "https://www.youtube.com/watch?v=OULQYK915Js"
+./ytfzf
+reset
+clear
+cd ..
+hx usr/bin/dmusic
+dmusic "https://youtu.be/ZQ3WUyMLaMY?si=YZHVXtxe0dqX1E5V"
+kew
+kew
+qc
+cd
+dmusic ""
+dmusic "https://youtu.be/JfT35PpkRpA?si=zatXL3nxELWYvkhp"
+kew
+reset
+clear
+cd
+clear
+clear
+reset
+ytfzf
+kew
+exit
+./ytfzf
+exit
+kew
+./ytfzf
+exit
+cd storage/shared/download/Canva
+l
+ls
+cd ..
+ls
+cd Canva
+ls
+cd
+clear
+exit
+exit
+clesr
+clear
+cd
+ls
+apt install apt-fast
+apt-fast
+apt install nala
+nala update
+clear
+nala upgrade
+sed -i 's/module-sles-sink/module-aaudio-sink/g'<\n>$PREFIX/etc/pulse/default.pa
+bash -c "sed -i 's/module-sles-sink/module-aaudio-sink/g'<\n>$PREFIX/etc/pulse/default.pa"
+bash
+cleat
+clear
+config env
+ls .config/nushell | get name
+config nu
+clear
+cd
+kew
+nala list nala
+nala show
+mkdir .config/nala
+hx .config/nala/nala.conf
+exit
+exit
+apt update
+clear
+config nu
+exit
+ls storage/shared/script | where type == file | get name
+ls storage/shared/ | where type == file | get name
+ls storage/shared/ | where type == file
+clear
+ls storage/shared/ | where type == file | get name
+rm -r -f storage/shared/dotfiles.zip
+clesr
+clear
+ls storage/shared/ | where type == file | get name
+cleat
+clear
+clear | fastfetch
+ls storage/shared/ | where type == file | get name
+apt update
+clear
+clear | fastfetch
+ls | where type == file
+clear
+ls .config | where == dir
+ls .config | where type == dir
+clesr
+clear
+clear | fastfetch
+ls .config | where type == dir
+ls
+clear
+exit
+cava
+exit
+tmux
+cava
+exit
+./ytfzf
+exit
+clear
+ls
+rm sesi
+clesr
+clear
+rm -r -f downloads
+ls
+clear
+clear | fastfetch
+ls
+ll
+kew
+exit
+help let
+ls | let files
+ls
+clear
+kew
+clear
+ls .config | where type == file
+ls .config/*/* | where type == file
+cleae
+clear
+ls .config/*/* | where type == file | sort-by natural| get name
+ls .config/*/* | where type == file | sort --natural| get name
+clear
+ls .config/*/* | where type == file | sort --natural| get size
+ls .config/*/* | where type == file | sort --reverse| get name
+clear
+ls .config/*/* | where type == file | sort --reverse| get size
+clear
+ls .config/*/* | where type == file | sort --natural| get size
+ls .config/*/* | where type == file | sort --natural| get name
+clear
+ls .config/*/* | where type == file | sort --natural| get name
+ls .config/*/*/ | where type == file | sort --natural| get name
+clesr
+clear
+kew
+cd storage/shared/download/
+ls
+termux-open AuroraStore-4.8.4.apk
+cd
+kee
+kew
+clear
+apt install mpd
+reset
+apt install mpd
+apt install rmpc
+cd .config
+mkdir mod
+mkdir mpd
+cd mpd
+ls
+mpd
+touch database
+cd
+la
+cd .mpd
+ls
+pkill mpd
+nano mpd.conf
+mpd
+nano mpd.conf
+cd 
+cd .config
+cd mpd
+ls
+cd
+nano .mpd,mpd.conf
+nano .mpd/mpd.conf
+pkill mpd
+killall mpf
+killall mpd
+mpd
+rmpc
+nano .mpd/mpd.conf
+rmpc
+nano ~/.config/rmpc/config.ron<\n>
+mkdir ~/.config/rmpc<\n>
+nano ~/.config/rmpc/config.ron<\n>
+rmpc
+nano ~/.config/rmpc/config.ron<\n>
+rmpc
+nano ~/.config/rmpc/config.ron<\n>
+rmpc
+nano ~/.config/rmpc/config.ron<\n>
+rmpc
+pkill mpd
+killall mpd
+pkill mpd
+mpd
+rmpc
+nano ~/.config/rmpc/config.ron<\n>
+rmpc
+cd .config
+rm -r -f rmpc
+rmpc config > ~/.config/rmpc/config.ron
+exit
+bash
+apt autoremove mpd rmpc
+apt autoremove mpd
+apt autoremove
+nala autoremove
+nala autoremove --help
+nala --helo
+nala --help
+bash
+clear
+cd
+la
+rm -r -f .cache
+mkdir .csche
+mkdir .cache
+ls
+exit
+kew
+apt autoremove rust cargo
+nala autoremove rust cargo
+nala autoremove rust
+bash
+exit
+ls
+rm -r -f crash_log.md
+ls
+rm -r -f project
+ls
+exit
+tsu
+bash
+cd storage/shared/download/
+la
+rm -r -f AuroraStore-4.8.4.apk
+rm -r -f Telegram.apk
+rm -r -f mpvKt-armeabi-v7a-v0.1.6.apk
+la
+rm -r -f OneTap.apk
+ls
+rm -r -f "termux-app_v0.2.29-hotfix.1+apt-android-7-github-debug_arm64-v8a.apk"
+ks
+ls
+clear
+ls
+cd
+rm -r -f .cache
+ls
+clear
+fastfetch
+ls
+clear
+tsu
+clear
+ls
+clear
+hx 1.py
+python 1.py
+python --hrlp
+python --help
+clear
+help ptyhon
+help python
+hx 1.py
+python 1.py
+clesr
+clear
+exit
+tmux
+exit
+tmuc
+apt install mpd
+clear
+kew
+ls
+clear
+ls
+kew
+cleat
+clear
+ls
+clear
+cleat
+clear
+ls
+kew
+clear
+ls
+clear
+ls
+clear
+ls
+ils
+clear
+kew
+exit
+clear
+ls
+clear
+ls
+clear
+yazi
+clear
+fastfetch
+clear
+cd storage/shared/pictures
+ls
+cd via
+ls
+clear
+ls
+cd m.
+..
+ls
+cd 100pint
+ls
+cd pins
+ls
+../..
+lz
+clear
+ls
+cleat
+clear
+ls
+clear
+ls
+clear
+cd
+clear
+ls
+clear
+ls
+cd
+kew
+ls
+clear
+ls
+clear
+clear | fastfetch
+cat
+cd storage/shared/pictures
+ls
+cat anis-chan.png
+clear
+ks
+clear
+ls
+imgcat
+clear
+ls
+clear
+ls
+exit
+ls
+clear
+cd
+ls
+clear
+ls
+clear
+kew
+clear
+cd .termuc
+cd .termux
+ls
+cleat
+clear
+ls
+hx termux.properties
+clear
+ls | get name
+cd shell
+hx shells
+hx shell
+clear
+ls | get name
+hx termux-launcher-bindings.conf
+clear
+exit
+kew
+exit
+clear
+kew
+clear
+ls
+cd
+clear
+ls .termux
+clear
+ls
+htop
+btop
+clear
+duat
+dust
+clear
+ls
+clear
+yazi
+exit
+yazi
+exit
+tmux
+clear
+ls
+kew
+clear
+ls
+yazi
+clear
+ls
+clear
+clear | fastfetch
+kitty
+imgcat
+catimg
+clwar
+clear
+exit
+ls
+clear
+yazi --clear-cache
+cleat
+clear
+cd storage/shared/pictures
+ls
+chafa -f kitty anis-chan.png
+clear
+ls
+cd
+clear
+fast
+fastfetch
+clear
+cd storage/shared/pictures
+ls
+chafa -f kitty --size=20x10 anis-chan.png
+clear
+ls
+exit
+cd ~/downloads
+ls
+chafa -f kitty --size=20x10 miyabi.gif
+clea
+clear
+exit
+cleR
+clear
+ls
+fastfetch
+ls .termux
+hx .termux/launcher
+cd .termux/launcher
+ls
+la
+cd examples
+ls
+bat README.md
+clear
+cd
+hx ytfzf
+./ytfzf
+cler
+clear
+hx ytfzf
+./ytfzf
+hx ytfzf
+clear
+ls
+clear
+nmap
+clear
+cd .termux/launcher
+ls
+cd examples
+ls
+nano keyboard-layout.xml
+ls
+hx termux-launcher-bindings.conf
+cd ..
+ls
+ckear
+cd
+ls .termux
+hx .termux/termux-launcher-bindings.conf
+ls
+clear | fastfetch
+fzf
+la
+ls storage/shared/dotfiles | where type == file | get name
+cp -r storage/shared/dotfiles/nvim-path ~/
+ls
+hx nvim-path
+mv nvim-path play
+./play
+ls
+./play
+clear
+chmod +x play
+./play
+hx play
+./play
+hx play
+./play
+hx play
+./play
+fd --help
+hx play
+fd --help
+hx play
+./play
+hx play
+./play
+hx play
+./play
+hx play
+./play
+clear
+hx play
+./play
+clear
+./play
+clear
+hx play
+./play
+clear
+ls
+hx play
+pkill mpv
+killall mpv
+exit
+./play
+ls
+rm -r -f .cache
+ls
+cleat
+clear
+fastfetch
+ls .termux
+hx .termux/shell-integration
+clear
+ls
+rm yt.nu
+ls
+kew
+yazi
+yazi --clear-cache
+clear
+fastfetch
+clear
+ls
+kee
+clear
+ls
+cd storage/external-1
+lz
+clear
+ls
+cd mix-chill
+ls
+mpv --no-video "Breakcore mix to think about your life.opus"
+kew
+clear
+s
+ls
+clear
+exit
+ls
+clear
+clear | fastfetch
+killall mpc
+killall mpv
+clear
+kew
+clear
+ls
+./ytfzf
+resdt
+reset
+ls
+clear
+exit
+ls
+clear
+ls .termux
+rm -rf .termux/launcher
+cd .termux/
+ls
+hx termux-launcher-bindings.conf
+termux-reload-settings
+hx termux-launcher-bindings.conf
+ls
+exit
+ls .termux
+cd .termux/shell-integration
+ls
+..
+hx shell-integration
+cd .,
+..
+ls
+clear
+ls
+clear
+kew
+clear
+./ytfzf
+clear
+ls
+clear
+cava
+ekew
+fastfetch
+clear
+yazi
+clear
+ls
+cava
+yazi
+exit
+kew
+clear
+./ytfzf
+reset
+exit
+./ytfzf
+exit
+cava
+ls
+exit
+cd .termux
+ls
+hx fonts.conf
+exit
+hx .termux/fonts.conf
+exiy
+exit
+ls
+cava
+ls
+clesr
+ytfzf
+exit
+cava
+cd .termuc
+cd .termu
+cd .termux
+termux-reload-settings
+ls
+exit
+ls
+clesr
+clear
+kew
+cd .termux
+ls
+rm -r -f fonts.conf
+exit
+ls
+clear
+ls
+clear
+ls
+kew
+clear
+exiy
+exit
+tmux
+ls
+clear
+exit
+cd storage/downloads
+ls
+termux-open NewPipe_v0.29.0.apk
+clear
+cd
+clear
+fastfetch
+clear
+cd .config
+hx starship.toml
+clear
+cd
+ls
+cd .config
+hx starship.toml
+clear
+ls
+hx starship.toml
+clear
+hx starship.toml
+clear
+hx starship.toml
+ls
+clear
+cd
+termux-api
+apt install termux-api
+am start com.termux.api/com.termux.api.activities.TermuxAPIMainActivity
+termux-battery-info
+termux-info-battery
+clear
+cd .config
+hx ytfzf
+chmod +x ytfzf
+./ytfzf
+reset
+./ytfzf
+clear
+ls
+cd
+ls
+rm ytfzf
+clear
+ls
+clear
+cd
+hx .termux
+nano .termux/colors.properties
+hx .termux
+ls
+termux-reload-settings
+exit
+ls
+la
+hx .termux
+exit
+ls
+clear
+newp
+newpipe
+clear
+fastfetch
+la
+apt install tuir
+apt install bun
+apt install nodejs
+clear
+apt install npm
+npm i -g @gtchakama/wa-tui
+rm -rf ~/.npm
+rm -rf ~/.node-gyp
+apt autoremove npm nodejs
+bash
+clear
+ls
+clear
+fastfetch
+clear
+cava
+ls
+clear
+exit
+exit
+exit
+ls
+exit
+dust
+cleat
+clear
+tsu "dust"
+rish
+rish --help
+exit
+rish -c "dust"
+clear
+rish
+clesr
+clear
+ls
+apt install btop
+bash
+bottom
+btop
+rish -c "btop"
+apt install htop
+btop
+htop
+cd .config
+cd htop
+ls
+hx htoprc
+htop
+clear
+hx htoprc
+htop
+hx htoprc
+thop
+htop
+clear
+rish -c "htop"
+clear
+tsu
+clear
+exit
+ls
+clesr
+htop
+rish -c "htop"
+clrar
+clear
+basj
+bash
+config nu
+clear
+tsu
+exit
+clear
+ls
+clear
+ls
+lla
+la
+clear
+ls
+kew
+yazi
+clear
+ls
+hx ytfzf
+chmod +x ytfzf
+hx ytfzf
+./ytfzf
+reset
+./ytfzf
+clear
+mkdir project
+cd project
+ls
+touch database.py
+touch README.md
+touch Notabase.py
+ls
+clear
+mkdir navi
+ls
+cd
+cd project
+touch openCV.env
+ls
+touch adaptor.pls
+touch adaptor.py
+rm adaptor.pls
+ls
+clear
+ls
+cd
+ls project
+clear
+ls project | get name
+clear
+apt install gcc clang
+apt install gcc
+bash
+cd app
+ls
+hx main.cpp
+bas
+bash
+ls
+hx main.cpp
+g++ main.cpp
+./main.cpp
+ls
+./app
+./a.out
+clear
+-)
+ls
+rm a.out
+hx main.cpp
+g++ main.cpp -o app
+ls
+./app
+ls
+rm main.cpp
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+kew
+clear
+reset
+cd
+ks
+kiss
+fish
+exit
+ls
+cd storage/sharef
+cd storage/sharefld
+cd storage/shared
+ls
+cd pictures
+ls
+cf mb
+ls
+cd mb
+ls
+yazi
+cd
+cd ..
+ls
+cd ..
+ls
+cd
+yazi
+exit
+ls
+clear
+apt autoremove mpv
+bash
+clear
+fastfetch
+tsu
+ls
+clear | fastfetch
+ls
+rish -c "htop"
+clear
+ls
+apt autoremove kew
+bash
+clear
+exit
+yazi --clear-cache
+ls
+yazi
+clear
+clear
+exit
+ls
+clear
+ls
+clear
+apt install cmus
+badh
+bash
+cava
+exit
+cmus
+clear
+ls
+exit
+cleat
+clear
+ls
+clear
+ls
+cd project
+ls
+cd ..
+ls
+cd apo
+cd app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+hx main.cpp
+./app
+hx main.cpp
+./app
+g++ main.cpp -o app
+./app
+rm main.cpp
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+./app
+g++ main.cpp -o app
+./app
+clear
+ls
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+hx main.cpp
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+./app
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+hx main.cpp
+g++ main.cpp -o app
+./app
+clear
+g++ main.cpp -o app
+hx main.cpp
+cd
+clear
+rish -c "htop"
+clear
+ls
+exit
+ks
+exit
+ls
+clesr
+clear
+ls
+clear
+ytfzf
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+cd .config
+hx ytfzf
+./ytfzf
+ckear
+exit
+cd .config
+./ytfzf
+cd
+cd ..
+cd usr/bin
+hx ytfzf
+ytfzf
+exiy
+exit
+ls
+cd storage/shared
+ls
+cd dotfiles
+ls
+rm .config
+rm  -r -f .config
+ls
+rm  -r -f .termux
+la
+cd
+cp -r .termux ~/storage/shared/dotfiles/
+cd ~/storage/shared/dotfiles
+la
+cd
+la
+ls
+clear
+apt install helix --no-install-recommends
+clear
+la
+clear
+exit
+exit
+clear
+apt install fastfetch
+config nu
+bash
+config nu
+apt autoremove
+clear
+ls
+yazi
+clear
+fzf
+exit
+chafa
+img2sixel
+clear
+apt install w3m
+apt install w3m-img
+clear
+ls
+clear
+ls
+yazi
+apt install chafa --no-install-recommends
+apt autoremove yazi
+clear
+fastfetch
+apt install fastfetch
+fastfetch
+clear
+apt install fd bat rg
+apt install fd bat ripgrap
+apt install fd bat ripgrep
+apt install fd bat ripgrep --no-install-recommends
+yazi
+clear
+apt install lf
+ls
+cd ..
+cd usr/bin
+chmod +x ytfzf
+chmod +x nvim-patj
+chmod +x nvim-path
+cd
+exit
+cd storage/shared/pictures
+ls
+chafa -f kitty --size=20x10 pinterest_1085226841476298456.jpg
+clear
+chafa -f kitty --size=20x10 pinterest_1085226841476298456.jpg
+cd
+cd .config/lf
+chmod +x preview
+chmod +x cleaner
+cd
+lf
+apt install file
+lf
+ls /storage/4572-1409/
+ls /storage/4572-1409/dcim
+ls /storage/4572-1409/pictures
+cd storage/shared/dwm
+ls
+cd dwm
+cd .config/lf
+cd .config
+s
+ls
+cd ranger
+ls
+../..
+clear
+ls
+cd ..
+ls
+..
+ls
+cd pictures
+cd .config
+clear
+..
+ls
+cd dcim
+la
+..
+clear
+cd configur/.config
+ls
+cd ranger
+ls
+hx scope.sh
+..
+ls
+clear
+cd
+clear
+apt install yazo
+apt install yazi
+apt install yazi --no-install-recommends
+chmod +x $(which yazi)
+basj
+bash
+exit
+termux-setup-storage
+yazi
+bash
+la
+cd .suroot
+ls
+la
+cd .config
+ls
+cp -r ~/.config/yazi ~/.suroot/.config/
+tsu
+clear
+cd
+clear
+config nu
+clear
+yazi
+exiy
+exit
+yazi
+tsu -c yazi
+ls
+tsu -c "yazi"
+exit
+ls
+tsu
+clear
+ls
+ls /storage/4572-1409/lost.dir
+bash
+..
+cd usr/bin
+chmod +x risg
+chmod +x rish
+clear
+rish
+cd
+rish -c "yazi"
+ls
+clear
+cd storage/shared/dwm
+rish -c "yazi"
+clear
+cd
+yazi --clear-cache
+config nu
+exec ny
+clear
+yazi
+exit
+yazi
+rish -c "yazi"
+config nu
+exec ny
+config nu
+yazo
+yazi
+exit
+yazi
+config nu
+yazi
+rish -c "yazi"
+config nu
+yazi
+config nu
+syazi
+exit
+fastfetch
+syazi
+yazi
+yazi --clear-cache
+ya cache clear
+clear
+ls
+clear
+su
+clear
+ls
+fastfetch
+syazi
+su
+clear
+ytfzf
+apt install python-pip
+pip install yt-dlp
+clear
+baah
+ytfzf
+cd ..
+hx usr/bin/ytfzf
+ytfzf
+hx usr/bin/ytfzf
+ytfzf
+clea
+exit
+bash
+exit
+exiy
+exit
+yazi
+exit
+yazi
+ls
+lf
+apt autoremove yazi
+clear
+apt clean
+cd storage/shared/configur
+la
+cd ".config i3 monokrom"
+ls
+cd ranger
+ls
+..
+ls
+clear
+ls
+..
+clear
+cd
+apt install cmus
+apt install kew
+lf
+basj
+bash
+clear
+lf
+exit
+clear
+cleat
+w3m -sixel https://tampvan.miraheze.org/wiki/JMK48
+clear
+exit
+ytfzf
+clear
+la
+clear
+la
+clear
+lf
+exit
+apt install cmus
+apt install cava
+cmua
+cmus
+caba
+cava
+exit
+reset
+ls
+clear
+fastfetch
+clear
+rm .config/starship.toml
+mkdir ($nu.data-dir | path join "vendor/autoload")<\n>starship init nu | save -f ($nu.data-dir | path join "vendor/autoload/starship.nu")
+apt install starship
+mkdir ($nu.data-dir | path join "vendor/autoload")<\n>starship init nu | save -f ($nu.data-dir | path join "vendor/autoload/starship.nu")
+eit
+exit
+ls
+clear
+cd .config
+cd
+clear
+ls
+ll
+clear
+ls
+fastfetch
+ls
+clear
+cd ..
+ls
+cd usr/etc
+ls | where type == file | select mode
+ls | where type == file | select modi
+clear
+ls
+ls | where type == file
+cd
+ls
+ll
+cd ..
+ll usr/etc | where type == file | select name mode
+clear
+la
+ls storage/shared | where name == download
+help where
+ls storage/shared | where name =- "download"
+ls storage/shared | where name =~ "download"
+cd
+clear
+ls
+cd storage/shared/dotfiles
+cp -r starship.toml ~/.config
+s
+ls
+cp -r .config/starship.toml ~/.config
+cd
+clear
+hx .termux
+hx .config
+ls
+hx .config
+ls
+hx .config
+s
+cleae
+clear
+hx .config
+ls
+h
+hx .config
+clear
+cd storage/shared/dotfiles
+hx .config
+ls
+clear
+hx .config
+exit
+ls
+clear
+clear | fastfetch
+ls
+hx .config
+ls
+hx
+hx .config
+ls
+clear
+hx .config
+ls
+clear
+fastfetch
+s
+clear
+ls
+cd storage/shared/dotfiles
+ls
+hx .config
+cd
+hx .config
+ls
+cd storage/shared/dotfiles
+cd
+clear
+ls
+hx .config
+clear
+ls
+hx .config
+exit
+clear
+hx .config
+ls
+cd storage/shared/dotfiles
+ls
+clear
+cd
+clear
+lf
+ls
+hx .config
+ls
+hx .config
+clear
+exit
+hx .config
+ls
+cp -r ~/storage/shared/dotfiles/.config/starship.toml ~/.config
+hx .config
+ls
+clear
+ls
+clear
+exit
+cd storage/shared/project
+ls
+hx main.cpp
+clear
+cd
+exit
+ytfzf
+clear
+ls
+mkdir project
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./
+./app
+hx main.cpp
+clear
+exit
+hx project/main.cpp
+clang++ main.cpp -o app
+cd project
+clang++ main.cpp -o app
+./app
+hx project/main.cpp
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+clang++ main.cpp -o app
+./app
+clear
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clear
+la
+exit
+ls
+clear
+ls
+cd storage/shared/dcim/video
+cd ~/storage/shared/dcim/video
+la
+lf
+ls
+mpv --vid=1 --vo=cpp dragon.mkv
+mpv --vo
+mpv --vo=value
+mpv --vid=1 --vo=tct dragon.mkv
+clear
+ls
+mpv --vid=1 --vo=caca dragon.mkv
+cleat
+mpv  --profile=sw-fast --vid=1 --vo=caca dragon.mkv
+clear
+ls
+mpv  --profile=sw-fast --vid=1 --vo=caca dragon.mkv --really-quiet
+clear
+mpv  --profile=sw-fast --vid=1 --vo=kitty dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=tct dragon.mkv --really-quiet
+mpv  --geometry=256x144 --profile=sw-fast --vid=1 --vo=sixel dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=sixel dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=kitty dragon.mkv --really-quiet
+ls
+mpv  --profile=sw-fast --vid=1 --vo=tct dragon.mkv --really-quiet
+clear
+mpv  --profile=sw-fast --vid=1 --vo=caca dragon.mkv --really-quiet
+clear
+mpv  --profile=sw-fast --vid=1 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 CACA_GEOMETRY=80x40 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 CACA_GEOMETRY=40x100 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 CACA_DRIVER=ncurses --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 CACA_DRIVER=raw --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 CACA_DRIVER=raw --vf=scale=-2:720 --vo=caca dragon.mkv --really-quiet
+mpv --vid=1 --vf=scale=-2:720 --vo=caca dragon.mkv --really-quiet
+mpv --vid=1 --vf=scale=-2:1080 --vo=caca dragon.mkv --really-quiet
+mpv --vid=1 --vf=scale=-2:144 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 CACA_DRIVER=raw --vf=scale=-2:720 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=caca dragon.mkv --really-quiet
+clear
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=tct dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:720 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=caca dragon.mkv --really-quiet
+mpv --vid=1 --vo=caca dragon.mkv --really-quiet
+mpv  --vid=1 --vf=scale=-2:720 --vo=caca dragon.mkv --really-quiet
+clear
+ls
+mpv  --vid=1 --vf=scale=-2:144 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=tct dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:720 --vo=tct dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=gpu dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=kitty dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=sixel dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=kitty dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vf=scale=-2:144 --vo=caca dragon.mkv --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=caca dragon.mkv --really-quiet
+clear
+ls
+clear
+ls
+cd
+clear
+cd ~/storage/shared/dcim/video
+mpv  --profile=sw-fast --vid=1 --vo=caca dragon.mkv --really-quiet
+clear
+ls
+cd
+clear
+ls
+cd ..
+cd usr/bin
+hx ytfzf
+exit
+apt install mplayer
+clear
+cd
+ls
+exit
+su
+exit
+ls
+la
+clear
+ls
+clear
+fastfetch
+clear
+fastfetch
+clear
+exit
+apt install aria2
+pip install mutagen
+cd storage/shared/.termux
+ls
+cd ..
+ls
+hx dmusic
+hx script
+cd
+ls
+ls /storage/4572-1409/music
+mkdir /storage/4572-1409/music/break
+exit
+hx dmusic
+tsu
+exit
+chmod +x dmusic
+./dmusic "https://youtube.com/playlist?list=PLZ6HY3Up-YYY&si=X9UsslGNkipyYx_K"
+clear
+tsu
+cd storage/external-1
+ls
+la
+cd
+cmus
+clear
+ls
+cava
+exit
+cmus
+exit
+cd storage/shared/download/
+ls
+termux-open NewPipe_v0.29.0.apk
+cd storage/shared/download/
+lf
+clear
+ls
+cd
+ls
+clear
+ls
+tsu
+clear
+ls
+rm -r -f storage/shared/downloads/*.apk
+cd storage/shared/download/
+ls
+cd
+rm -r -f ~/storage/shared/download/*.apk
+cd storage/shared/download/
+ls
+rm -r -f *.xapk
+s
+ls
+clear
+ls
+cd hush
+ls
+cd ..
+rm -r -f hush
+clear
+ls
+cd
+clear
+ls
+lf
+rm -r -f ~/storage/shared/Pictures/.thumbnails/*.jpg
+lf ~/storage/shared/Pictures/.thumbnails
+exit
+ls
+clear
+ls
+hx crash_log.md
+clear
+apt clear
+w3m
+clear
+mpv  --profile=sw-fast --vid=1 --vo=caca https://m.youtube.com/watch?v=wTqaveCTYjc&pp=ygUNbmdhd2kgbXVzaWNhbA%3D%3D --really-quiet
+clear
+mpv  --profile=sw-fast --vid=1  --geometry=100%x100% --video-unscaled=yes --vo=caca https://m.youtube.com/watch?v=wTqaveCTYjc&pp=ygUNbmdhd2kgbXVzaWNhbA%3D%3D --really-quiet
+clear
+exit
+ls
+mpv --profile=sw-fast --vid=1 --video-unscaled=yes --no-keepaspect-window --vo=caca "https://m.youtube.com/watch?v=wTqaveCTYjc" --really-quiet
+mpv --profile=sw-fast --vid=1 --caca-window-width=80 --caca-window-height=24 --vo=caca "https://m.youtube.com/watch?v=wTqaveCTYjc" --really-quiet
+mpv --profile=sw-fast --vid=1 --video-unscaled=yes --no-keepaspect-window --vo=caca "https://m.youtube.com/watch?v=wTqaveCTYjc" --really-quiet
+clear
+ls
+clear
+ls
+clear
+mpv --profile=sw-fast --vid=1 --video-unscaled=yes --no-keepaspect-window --vo=caca "https://m.youtube.com/watch?v=wTqaveCTYjc" --really-quiet
+clear
+ls
+cleat
+clear
+ls
+cleat
+clear
+ls
+mpv --profile=sw-fast --vid=1 --video-unscaled=yes --no-keepaspect-window --vo=caca "https://m.youtube.com/watch?v=wTqaveCTYjc" --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=caca https://m.youtube.com/watch?v=wTqaveCTYjc&pp=ygUNbmdhd2kgbXVzaWNhbA%3D%3D --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=caca https://youtu.be/9GXt7A2kTYg?si=PsN7q7_Lh27P4fk9 --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=caca https://youtu.be/JsC4fl2AHiU?si=2WZrDEzhn4iCe54i --really-quiet
+mpv  --profile=sw-fast --vid=1 --vo=caca https://youtu.be/9GXt7A2kTYg?si=PsN7q7_Lh27P4fk9 --really-quiet
+exit
+ls
+mpv  --profile=sw-fast --vid=1 --vo=caca https://youtu.be/9GXt7A2kTYg?si=PsN7q7_Lh27P4fk9 --really-quiet
+cleat
+clear
+mpv  --profile=sw-fast --vid=1 --vo=caca https://youtu.be/9GXt7A2kTYg?si=PsN7q7_Lh27P4fk9 --really-quiet
+cleat
+clear
+ls
+cd ..
+cd usr/bin
+ls
+cd
+ls
+hx ytfzf
+exit
+cd
+ytfzf
+clear
+ls
+cd
+mpv  --profile=sw-fast --vid=1 --vo=caca https://youtu.be/9GXt7A2kTYg?si=PsN7q7_Lh27P4fk9 --really-quiet
+cleae
+clear
+apt install mplayer --no-install-recommenfs
+apt install mplayer --no-install-recommends
+hx playet
+hx player
+chmod +x player
+apt install x11-repo
+apt install termux-x11-nightly
+clear
+exit
+cd storage/shared/dcim/video
+ls
+bash
+cd ..
+ls
+cd
+./player ""
+exit
+hx player
+./player "~/storage/DCIM/video/dragon.mkv"
+./player "$HOME/storage/DCIM/video/dragon.mkv"
+hx player
+./player "$HOME/storage/DCIM/video/dragon.mkv"
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+exit
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+rish input keyevent 3
+rish input
+rish
+am start -c android.intent.category.HOME -a android.intent.action.MAIN<\n>
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx player
+hx ~/storage/shared/.termux/yt
+hx player
+./player "/sdcard/DCIM/video/dragon.mkv"
+hx
+hx player
+bash -c "cp -r storage/shared/.termux/yt $PREFIX/bin"
+cd ..
+cd usr/bin
+chmod +x yt
+hx yt
+cd
+yt
+cd ..
+hx usr/bin/yt
+yt
+hx usr/bin/yt
+hx ytfzf
+hx usr/bin/ytfzf
+ytfzf
+hx usr/bin/ytfzf
+ytfzf
+exit
+cd storage/shared/dotfiles
+ls
+bash -c "cp -r ytfzf $PREFIX/bin"
+cd
+cd ..
+cd us
+cd usr/bin
+cd storage/shared/.termux
+cd
+cd storage/shared/.termux
+ls
+hx yt
+exit
+hx ytfzf
+hx yt
+yt
+exit
+apt autoremove mplayer
+clear
+ls
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+clear
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+./app
+cd
+hx player
+cd storage/shared/dcim/video
+ld
+ls
+cd ..
+cd screenshots
+ls
+lf
+cd
+./player "/sdcard/dcim/screenshots/record.mp4"
+apt install mplayer
+./player "/sdcard/dcim/screenshots/record.mp4"
+apt autoremove mplayer
+apt autoremove x11-repo termux-x11-nightly
+exit
+ls
+clear
+ls
+clear
+apt update
+clear
+ls
+cd storage/shared/dcim/video
+ls
+mpv  --profile=sw-fast --vid=1 --vo=caca https://youtu.be/9GXt7A2kTYg?si=PsN7q7_Lh27P4fk9 --really-quiet
+clear
+ls
+cd
+clear
+fastfetch
+clear
+dust
+clear
+w3m  https://google.com
+w3m https://searx.be
+w3m https://duckduckgo.com
+cava
+exit
+curl -fsSl https://terminal-browser.sh/install | bash
+terminal-browser
+cmus
+exit
+clear
+bash
+config nu
+config env
+cd .local/bin
+ls
+cd
+config nu
+terminal-browser
+config nu
+ecit
+exit
+env nu
+exit
+terminal-browser
+cd /data/data/com.termux/files/home/.local/share/
+ls
+cd terminal-browser
+ls
+cd app
+ls
+cd electron
+ls
+cd
+rm -r -f ~/.local/bin/terminal-browser
+rm -r -f ~/.local/share/terminal-browser
+cd .local/share
+ls
+cd
+clear
+terminal-browser
+config nu
+apt clean | apt purge autoremove
+apt purge
+exit
+pip install pyradio
+pyradio
+hx /data/data/com.termux/files/usr/lib/python3.14/site-packages/pyradio/radio.py
+mpv https://www.radioindonesia.org/podcasts/cnn-indonesia
+clear
+hx dmusic
+mkdir ~/storage/external-1/break
+hx dmusic
+./dmusic "https://music.youtube.com/playlist?list=OLAK5uy_mac3FOWV8srSIyHHHT9kXluhdbVMwCy_Q&si=5Yhh8i4f1g9zDQBf"
+cd storage/external-1/break
+ls
+rm -r -f *.webp
+ls
+cd
+cd ..
+cd usr/bin/
+hx dmusic
+cd
+hx dmusic
+dmusic
+./dmusic "https://music.youtube.com/playlist?list=OLAK5uy_mac3FOWV8srSIyHHHT9kXluhdbVMwCy_Q&si=-c8UORFhRSEDz5gj"
+aria2 -l
+hx d 
+hx dmusic
+rm -r -f ~/storage/external-1/*.webp
+./dmusic "https://music.youtube.com/playlist?list=OLAK5uy_mac3FOWV8srSIyHHHT9kXluhdbVMwCy_Q&si=-c8UORFhRSEDz5gj"
+rm -r -f ~/storage/external-1/*.webp
+rm -r -f ~/storage/external-1/break/*.webp
+./dmusic "https://youtube.com/playlist?list=PL7YlAL6qKk-zCkDHj_oY08z52r89WNSYd&si=eAYAVwRsgPun8E09"
+apt install aria2
+apt install ffmpef
+apt install ffmpeg
+pip install -U --pre yt-dlp
+cd storage/external-1/break
+ls
+./dmusic "https://youtube.com/playlist?list=PL7YlAL6qKk-zCkDHj_oY08z52r89WNSYd&si=eAYAVwRsgPun8E09"
+clear
+ls
+cd
+clear
+mkdir ~/storage/external-1/ultraviolet
+hx dmusic
+./dmusic "https://music.youtube.com/playlist?list=OLAK5uy_mac3FOWV8srSIyHHHT9kXluhdbVMwCy_Q&si=WVDnxXvfCHkklYkp"
+exit
+cava
+exit
+cmus
+clear
+ls
+apt clean
+apt autoremove
+cmus
+ls storage/dcim
+ls storage/dcim/screenshots
+ls storage/dcim/screenshots/*.mp4
+rm -r -f storage/dcim/screenshots/*.mp4
+ls storage/dcim/screenshots/*.mp4
+tsu
+ls storage/dcim/screenshots/*.mp4
+ls storage/dcim/screenshots/
+exit
+exit
+cmus
+exit
+apt install xleak
+apt install sc-im
+clear
+touch informasi.xlsx
+ls
+sc-im informasi.xlsx
+hx informasi.xlsx
+clear
+cd storage/shared/dotfiles
+bash -c "cp -r ytfzf $PREFIX/bin"
+cd
+..
+cd usr/bin/
+chmod +x ytfzf
+cd
+ytfzf
+hx project/main.cpp
+sc-im informasi.xlsx
+clear
+ls
+clear
+ls
+cmus
+sc-im informasi.xlsx
+clear
+cmus
+sc-im informasi.xlsx
+ls
+clear
+ls
+sc-im informasi.xlsx
+cmus
+clear
+ls
+clear
+exit
+apt install kew
+kew path "~/storage/external-1/"
+exit
+cmus
+clear
+kew
+reset
+ls
+apt autoremove kew
+apt install mpd
+clear
+ls
+clear
+cmus
+exit
+exit
+cava
+exit
+clear
+kew
+apt install kew
+ke
+exit
+kew
+exit
+kew path "/storage/4572-1409/music"
+kew
+exit
+sc-im informasi.xlsx
+ls
+sc-im informasi.xlsx
+cd storage/shared/download/
+sc-im informasi-tik.xlsx
+ls
+sc-im informati-tik.xlsx
+clear
+ls
+exit
+cd storage/shared/download/
+ls
+lf
+ls
+sc-im informati-tik.xlsx
+sc-im informati-TIK.xlsx
+aria2 https://document.syncfusion.com/web-services/spreadsheet-editor/api/spreadsheet/save?_gl=1*ldqrn3*_gcl_au*Njc1NTAzMjE3LjE3ODcyMTEwMDE.*_ga*MjAwODk5NzMzNS4xNzg3MjExMDAz*_ga_41J4HFMX1J*czE3ODcyMTEwMDIkbzEkZzEkdDE3ODcyMTEyNjkkajYwJGwwJGgw
+aria2
+apt install aria2
+clear
+ls
+sc-im TIK.xlsx
+ls
+sc-im "TIK (1).xlsx"
+ls
+exit
+ls
+cd
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+exit
+cd storage/shared/pictures/via
+ls
+cd ..
+cd download
+ls
+mv anis-nikke.gif ~/
+cd
+ls
+clear
+mpv --vo=caca anis-nikke.gif 
+mpv --vid=1 --vo=caca anis-nikke.gif 
+clear
+mpv --vid=1 --vo=caca anis-nikke.gif 
+mpv --vid=1 --vo=caca anis-nikke.gif --realy-quiet
+clear
+ls
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+cleat
+clear
+kew
+clear
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+kew
+exit
+exit
+exit
+exit
+cd storage/shared/download/
+ls
+mpv --vid=1 --vo=caca shiroko.gif --msg-level=all=no
+kew
+exit
+exit
+apt install yazi --no-install-recommends
+yazi
+apt autoremove yazi
+clear
+ls
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+ls
+clear
+cava
+fastfetch
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+clear
+ls
+apt clean
+caba
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+cava
+exit
+exit
+cmus
+cd storage/shared/download
+ls
+exit
+exit
+cd storage/shared/download
+ls
+cd ..
+ls
+cd "FLM User Files"
+ls
+cd ..
+cd download
+ls
+mv Amen-Breaks-Compilation.zip "~/storage/shared/FLM User Files/My Samples"
+mv Amen-Breaks-Compilation.zip ~/storage/shared/"FLM User Files"/"My Samples"
+ls
+mv Amen-Breaks-Compilation.zip ~/storage/shared/"FLM User Files"
+cd ..
+cd "FLM User Files"
+ls
+cd m.
+..
+ls
+cd   "FLM User Files"
+ls
+cd ..
+ls
+cd FLM User Files
+ls
+cd 'FLM User Files'
+ls
+cd ..
+cd download
+ls
+cd ..
+xd
+ls
+cd
+ls
+cd storage/shared/
+ls
+unzip drum.zip
+ls
+cp -r amen ~/storage/shared/"FLM User Files"
+cd "FLM User Files"
+ls
+ls | amen
+cd ..
+ls
+mv amen 'FLM User Files'
+ls
+hx dmusic
+mkdir storage/external-1/japan
+./dmusic ""
+./dmusic "https://youtube.com/playlist?list=PL7YlAL6qKk-w1FN5-ObWAsAtOV3vb-oit&si=cdxIE7W-DN4vl3iB"
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+nano main.cpp
+kew
+exit
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+clear
+kew
+pkillkew
+pkill kew
+exit
+cd storage/shared/
+la
+cd notes
+ls
+hx 5.md
+kew
+exit
+clear
+ls
+kew
+exit
+ls
+cd ..
+lz
+cf
+ls
+cd
+ls
+sc-im "TIK (1).xlsx"
+ls
+reset
+clear
+lz
+ls
+sc-im "informasi.xlsx"
+clear
+reset
+exit
+ls
+ytfzf
+cleat
+hx jati-diri.md
+bat jati-diri.mf
+bat jati-diri.md
+clear
+ls
+exit
+..
+hx usr/bin/ytfzf
+exit
+ls
+clear
+hx project/main.cpp
+cd
+hx project/main.cpp
+clang++ main.cpp -o app
+cd project
+clang++ main.cpp -o app
+./app
+clear
+hx main.cpp
+exit
+cava
+exit
+ytfzf
+cd
+ls
+cd storage/extermal
+cd storage/external
+cd storage/external-1
+ls
+tsu
+kew
+exit
+ls
+clear
+ls
+clear
+rm -r -f storage/shared/downloads/*.apk
+rm -r -f storage/shared/download/*.apk
+tsu
+ls /sdcard/dcim/camera
+clear
+ls
+ls /sdcard/dcim/camera
+exit
+ls
+clear
+tsu
+ls
+clear
+ls
+cd storage/shared/
+ls
+cd Bluetooth
+ls
+termux-open OneTap.apk
+clear
+ls
+cd
+clear
+ls
+clear
+cava
+exit
+cmus
+kew
+clear
+hx .termux
+nano .termux/colors.properties
+cd .config/kew/themes
+ls
+mv army.theme blue-light.theme
+ls
+cd ..
+hx kewrc
+kew
+hx kewrc
+kew
+hx kewrc
+kew
+hx kewrc
+kew
+hx kewrc
+kew
+clear
+reset
+exit
+ytfzf
+hx project/main.cpp
+c
+cd
+ls
+cd project
+bat main.cpp
+clear
+clang++ main.cpp -o app
+./app
+hx main.cpp
+cleat
+clear
+hx main.cpp
+clang++ main.cpp -o app
+./
+./app
+exit
+hx .termux
+cd
+nano .termux/colors.properties
+clear
+cd
+clear
+ls
+clear
+kew
+kew
+ecit
+exit
+exit
+ls
+exit
+ls
+exiy
+exit
+ls
+kew
+killall kew
+kill kew
+exit
+ls
+clear
+kew
+clear
+ls
+fastfetch
+clear
+fastfetch
+cleat
+clear
+ls
+clear
+ls
+fastfetch
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+exit
+ls
+clear
+ls
+fastfetch
+clear
+echo Halo dari shortcut!
+clear
+ls
+clear
+fastfetch
+ls
+exit
+ls
+kew
+fastfetch
+ls
+clear
+ls
+ll
+l
+clear
+ls
+fastfetch
+clear
+ls
+c
+cleat
+clear
+ld
+ls
+clear
+eciy
+exit
+ls
+clear
+ls
+ytfzf
+exit
+ls
+clear
+ls
+clesr
+clear
+exit
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+clear
+ls
+clear
+ls
+clear
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+clear
+exit
+cava
+exit
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+clear
+cava
+exit
+caba
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+exit
+cmus
+exit
+cava
+exit
+reset
+ls
+exit
+ls
+clesr
+clear
+fastfetch
+ls
+clear
+cava
+clear
+ls
+clear
+cd storage/shared/
+ls
+clear
+ls
+rm -r -f zFont
+clear
+ls
+exit
+kew
+exit
+clear
+ls
+clear
+reset
+clear
+ls
+clear
+ytfzf
+..
+hx usr/bin/ytfzf
+cd
+cava
+exit
+ytfzf
+..
+hc macchina.toml
+hx usr/bin/ytfzf
+clear
+cd
+cd project
+hx main.cpp
+ls
+clear
+cd
+ytfzf
+..
+hx usr/bin/ytfzf
+hx usr/bin/yt
+rm yt
+rm usr/bin/yt
+clesr
+ckear
+clear
+ls
+cd
+ls
+exit
+ls
+clesr
+clear
+ls
+clear
+lf
+apt install yazi --no-install-recommends
+yazi
+chmod -R 755 ~/.config/yazi
+chmod -R 755 ~/.cache/yazi
+yazi
+YAZI_LOG=debug yazi
+hx /data/data/com.termux/files/home/.local/state/yazi/yazi.log
+bash
+yazi
+export XDG_RUNTIME_DIR="$TMPDIR"
+bash
+exit
+ytfzf
+clear
+chsh
+exit
+yazi
+ls -la $(which yazi)
+bash
+clear
+config env
+config nu
+yazi
+exit
+yazi
+termux-exec
+bash
+exec >/dev/tty
+bash
+yazi
+bash -c "exec >/dev/tty"
+yazi
+bash -c "yazi"
+bash
+apt install yazi --no-install-recommends
+con
+config nu
+yazi
+config nu
+y
+config nu
+yazi
+y
+config u
+config nu
+yazi
+sh -c 'cat << "EOF" > /data/data/com.termux/files/usr/local/bin/yazi<\n>#!/bin/sh<\n>exec /data/data/com.termux/files/usr/bin/yazi "$@" </dev/tty >/dev/tty<\n>EOF'
+bash
+mkdir .local
+ls
+cd .local/bin
+ls
+cd
+mkdir ~/.local/bin; "^yazi $args </dev/tty >/dev/tty" | save -f ~/.local/bin/yazi; chmod +x ~/.local/bin/yazi
+exit
+yazi
+cd .local/bin
+ls
+./yaxi
+./yazi
+hx yazi
+^yazi $args </dev/tty >/dev/tty
+run-external "yazi"
+cd
+config nu
+exit
+ls
+fastfetch
+y
+exit
+clear
+ya cache clear
+clear
+ls
+rwset
+reset
+clear
+ls
+cd storage/shared/
+ls
+clesr
+clear
+ls storage/shared | where type == file
+cd
+ls storage/shared | where type == file
+help  
+help where
+help get
+help open
+help size
+help
+clear
+ls storage/shared | where type == file | sort size
+help sort
+help ls
+help sort
+ls storage/shared | where type == file | sort-by size | get name
+ls storage/shared | where type == file | sort-by size | select name
+xlear
+clear
+ls storage/shared | where type == file | sort-by size | select size
+ls storage/shared | where type == file | sort-by natural | select size
+clear
+yazi
+y
+rm -r -f storage/shared/dcim/screenshoots/*.jpg
+cd s
+cd storage/shared/dcim/screenshoots/*.jpg
+cd storage/shared/dcim/screenshoots/
+cd storage/shared/dcim/
+ls
+cd
+rm -r -f storage/shared/dcim/Screenshots/*.jpg
+cd storage/shared/dcim/Screenshots
+ls
+cd
+tsu
+ls
+clear
+y
+lf
+caba
+y
+cmus
+exit
+cava
+exit
+exit
+ls
+clear
+lf
+clear
+ls
+clear
+y
+exit
+exit
+kew
+exit
+cmus
+y
+hx .termux
+cd .comfig/termux
+hx .termux
+termux-reload-settings
+exit
+cava
+exit
+ls
+exit
+exit
+ls
+clear
+ls
+apt clean
+apt autoremove
+clear
+ls
+exit
+ls
+clear
+exit
+kew
+exit
+clear
+ls
+jew
+kew
+reset
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+clear
+hx main.cpp
+cd
+..
+hx usr/bin/ytfzf
+cd
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+exit
+ytfzf
+exit
+cd project
+./app
+hx main.cpp
+kew
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+nano main.cpp
+hx main.cpp
+exit
+cd
+reset
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+. 
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx nv.cpp
+clang++ nv.cpp -o nv
+./nv
+hx nv.cpp
+hx main.cpp
+clang++ nv.cpp -o nv
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+kew
+hx main.cpp
+cd
+exit
+kew
+exit
+cleat
+clear
+exit
+exit
+kew
+mpv --vid=1 --vo=caca https://pin.it/2bvnTjXrM --msg-level=all=no
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+cd ..
+hx dmusic
+hx usr/bin/dmusic
+cd
+hx dmusic
+./dmusic "https://youtube.com/playlist?list=PLH5WyJcCMtUE&si=j3wYnp-u43bpwLU1"
+hx dmusic
+./dmusic ""
+./dmusic "https://youtu.be/4QD09YlhwRE?si=jr1wlhjJSKbZNsP0"
+hx dmusic
+kew
+tsu
+exit
+clear
+ls
+tsu
+kew
+keq
+kew
+hx jati-diri.md
+lf
+y
+hx 1.md
+clear
+fastfetch
+ls
+reset
+cleat
+clear
+ls
+kew
+kee
+exit
+y
+exit
+exit
+exit
+kew
+exit
+kew
+cd p 
+cd project
+hx main.cpp
+./app
+reset
+./app
+clear
+ls
+cd
+clear
+exit
+ls
+clear
+su
+cd storage/shared/download
+hx void.sh
+cd
+su
+cd storage/shared/download
+hx void.sh
+..
+ls
+hx 
+hx void.sh
+cd script
+ls
+cd
+hx void.sh
+ls
+su
+apt install x11-repo root-repo termux-x11-nightly
+apt install x11-repo root-repo
+apt install termux-x11-nightly
+nano start
+virgl_test_server_android &
+apt install virglrenderer-android
+clear
+hx script
+hx start
+./start
+chmod +x start
+ls
+clesr
+clear
+su
+hx start
+apt install busybox
+nano start
+ls
+hx start
+pkill -f com.termux.x11<\n>killall -9 termux-x11 Xwayland 2>/dev/null<\n>rm -rf $PREFIX/tmp/.X11-unix/X0
+badh
+bash
+clear
+su
+./start
+zu
+su
+exit
+./start
+exit
+ls
+su
+exit
+l
+s
+rm -r -f start
+ls
+cd ..
+cd usr/bin/
+hx yazi
+hx ytfzf
+cd
+ytfzf
+..
+hx usr/bin/ytfzf
+ytfzf
+hx usr/bin/ytfzf
+ytfzf
+reset
+..
+hx usr/bin/ytfzf
+ls
+cd files
+hx usr/bin/ytfzf
+ytfzf
+hx usr/bin/ytfzf
+ytfzf
+exit
+kew
+exit
+apt autoremove lf root-repo x11-repo
+apt autoremove termux-x11-nightly
+exit
+kew
+clear
+reset
+ytfzf
+..
+hx usr/bin/ytfzf
+cd storage/shared/shared
+cd storage/shared/blueethtot
+cd storage/shared/
+cd
+cd storage/shared/
+ls
+cd Bluetooth
+ls
+termux-open OneTap.apk
+kew
+exit
+ytfzf
+exit
+ls
+apt install mpv-x
+apt search mpv
+clear
+ls
+cd project
+hx main.cpp
+ls
+hx nv.cpp
+exit
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./start
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+exit
+hx main.cpp
+exit
+hx main.cpp
+exit
+hx na.cpp
+clang++ main.cpp -o app
+clang++ na.cpp -o app
+./app
+hx na.cpp
+clang++ na.cpp -o app
+./app
+hx na.cpp
+clang++ na.cpp -o app
+hx na.cpp
+clang++ na.cpp -o app
+./app
+hx na.cpp
+clang++ na.cpp -o app
+./app
+hx na.cpp
+clang++ na.cpp -o app
+./app
+hx na.cpp
+cd project
+hx na.cpp
+clang++ na.cpp -o app
+./app
+hx na.cpp
+clang++ na.cpp -o app
+hx na.cpp
+clang++ na.cpp -o app
+./app
+hx na.cpp
+clear
+apt install x11-repo root-repo
+apt install termux-x11-nightly
+su
+cd
+hx start
+chmod +x start
+./start
+apt autoremove yazi
+apt clean
+su
+ls
+hx start
+exit
+./start
+hx start
+su
+exit
+./start
+su
+exit
+./start
+exit
+su
+exit
+cd /storage/4572-1409/
+ls
+termux-open AuroraStore-4.7.4.apk
+tsu
+clear
+tsu
+cd ~/storage/shared/
+ls
+clear
+help where
+ls | whare name = "AuroraStore-4.7.4.apk"
+ls | where name = "AuroraStore-4.7.4.apk"
+termux-open AuroraStore-4.7.4.apk
+reset
+clear
+cd
+clear
+ls
+clear
+ls
+clear
+cmus
+clear
+ls
+clear
+exit
+apt install mpd
+apt install rmpc
+clear
+ls
+la
+clear
+cd .mpd
+ls
+la
+cd playlist
+clear
+ls
+touc mpd.conf
+kew
+clear
+reset
+nano mpd.conf
+mpd
+touch database
+pkill mpd
+killall mpd
+mpd
+clear
+cmus
+rmpc
+pc
+rmpc
+cava
+nano mpd.conf
+killall mpd
+mpd
+mkfifo /tmp/mpd.fifo<\n>
+killall mpd
+cd
+cd ..
+cd usr
+ls
+cd tmp
+ls
+cd kew
+ls
+cd unknown
+ls
+..
+ls
+cd ..
+mkfifo mpd.fifo
+ls
+cd
+cd .mpd
+nano mpd.conf
+mpd
+cd
+cd .config/rmpc/
+mkdir .config/rmpc/
+cd .config/rmpc/
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+rmpc
+ls /sto
+exit
+hx config.ron
+rmpc
+killall mpd
+clear
+h
+hx config.ron
+mpd
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+exit
+rmpc
+cd .config/rmpc/
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+h
+hx config.ron
+rmpc
+hx config.ron
+rmpc
+exit
+cava
+la
+clear
+ls
+apt install yazi --no-install-recommends
+cava
+exit
+rmpc
+killall mpd
+cava
+exit
+exit
+exit
+ls
+clest
+clear
+ls
+mpd
+cava
+exit
+cava
+fastfetch
+ls
+tsu
+clear
+fastfetch
+ls
+clear
+fastfetch
+ls
+clea
+clear
+hx
+apt install cmattix
+apt install cmatrix
+cmatrix
+clear
+ls
+clear
+ls storage/shared | where type == file | sort-by natural | select size
+clear
+rmpc
+killall mpd
+exit
+exit
+exit
+clear
+y
+yazi
+pwd
+clear
+ls
+clear
+exit
+mpv --vid=1 --vo=caca anis-nikke.gif --msg-level=all=no
+cmatrix
+clear
+exit
+y
+exir
+exit
+exit
+hx .termux
+termux-reload-settings
+ls
+cd
+ls
+cd storage/shared/dotfiles/
+hx .termux
+cd .termux
+cp -r colors.properties ~/.termux
+exit
+ls
+mpd
+config nu
+config env
+config lsi
+exit
+rmpc
+killall mpd
+exit
+hx .termux
+nano .termux/colors.properties
+ls
+exit
+apt install got
+apt install git
+cleaar
+clear
+ls
+clear
+ls
+la
+clea
+clear
+fastfetch
+ls
+tsu
+mpd
+rmpc
+killall mpd
+cmus
+exit
+apt autoremove yazi git
+apt autoremove
+apt clean
+clear
+ls
+kew
+cleR
+clear
+ls
+cd project
+ls
+hx main.cpp
+clang++ na.cpp -o app
+./start
+./app
+hx main.cpp
+reset
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+cl
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+./app
+hx main.cpp
+./app
+hx main.cpp
+clear
+ls
+mpd
+caba
+fastfetch
+ls
+clear
+ls
+cd
+clear
+ls
+cava
+exit
+exit
+rmpc
+clear
+fastfetch
+ls
+fzf
+clear
+ytfzf
+clear
+ls
+lf
+apt install lf
+lf
+clear
+killall mpd
+exit
+fastfetch
+ls
+clear
+ls
+clear
+mpd
+cava
+rmpc
+killall mpd
+exit
+exit
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+clear
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+mpd
+rmpc
+clear
+cd
+reset
+exig
+exit
+cmus
+clear
+reset
+cd .termux
+nano colors.properties
+clear
+cd
+clear | fastfetch
+ls
+mpd
+rmpc
+killall mpd
+cava
+exit
+exit
+clear
+ls
+exit
+clear
+ls
+clear
+ls
+clear
+fastfetch
+ls
+clear
+ls
+clear
+pwd
+clear
+ls storage/shared | where type == file | sort-by soze | select size
+ls storage/shared | where type == file | sort-by size | select size
+ls storage/shared | where type == file | sort-by size | select name
+rm -r -f storage/shared/drum.zip
+clear
+exit
+mpd
+rmpc
+killall mpd
+rmpc
+clear
+exit
+mpd
+cava
+rmpc
+killall mpd
+exit
+ls
+cd .config
+l
+ls
+cd htop
+ls
+hx htoprc
+..
+clear
+ls
+cd zellij
+ls
+hx config.ron
+hx config.kdl
+..
+ls
+cd yazi
+ls
+hz yazi.toml
+hx yazi.toml
+clear
+ls
+..
+ls
+cd nvim
+ls
+hx init.lua
+cd colos
+cd colora
+cd colors
+ls
+hx pallate.lua
+..
+ls
+hx music.py
+rm music.py
+..
+ls
+cd nvim
+ls
+hx lua
+..
+clear
+ls
+..
+ls
+cd .config
+cd fastfetch
+ls
+hx config.jsonc
+..
+cd rmpv
+cd rmpc
+ls
+mkdir themes
+cd themes
+hx def.ron
+nano ~/.termux/colors.properties
+cp -r config.ron ~/
+ls
+cd ..
+cp -r config.ron ~/
+hx config.jsonc
+hx config.ron
+mpd
+rmpc
+clear
+hx config.ron
+rmpc
+ls
+rm config.ron
+cp -r ~/config.ron ~/.config/rmpc/
+ls
+rmpc
+hx themes
+..
+cd
+nano ~/.termux/colors.properties
+hx .config
+killall mpd
+mpd
+rmpc
+cd .config/rmpc/
+ls
+rm -rf themes
+hx config.ron
+clear
+ls
+..
+ls
+cd yazi
+ls
+hx theme.toml
+clear
+ls
+..
+ls
+cd sc-im
+la
+..
+clear
+ls
+cd tmux
+ls
+hx tmux.conf
+ls
+..
+ls
+rmpc
+killall mpd
+exit
+hexit
+exit
+clear | fastfetch
+ls
+clear
+y
+apt install yazi
+caba
+mpd
+apt install yazi --no-install-recommends
+y
+clear
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+cl 
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+apt install xfce4 --no-install-recommends
+apt install fluxbox --no-install-recommends
+apt install openbox --no-install-recommends
+apt install mandoc --no-install-recommends
+kew
+apt install x11-repo
+rm start
+hx start
+apt install st
+mkdir ~/.config/openbox
+cp $PREFIX/etc/xdg/openbox/{rc.xml,menu.xml,autostart} ~/.config/openbox/
+bash
+clear
+hx .config
+apt install tint2
+apt install tint2 --no-install-recommends
+hx .config
+hx start
+chmod +x start
+./start
+ls
+clear
+apt install firefox --no-install-recommends
+apt install chromium --no-install-recommends
+hx .config
+cd
+cd .config/tintw
+cd .config/tint2
+ls
+la
+cd t
+ls
+hx nt2rc
+tint2
+ls
+rm nt2rc
+..
+hx tint2rc
+exit
+hx .config
+cd
+hx .config
+./start
+hx .config
+killall tint2 && tint2 &
+clear
+apt install xwallpaper
+mv ~/storage/downloads/never.jpg ~/
+mv ~/storage/downloads/never.jpeg ~/
+ls
+hx .config
+./start
+hx .config
+killall tint2 && tint2 &
+mpd
+rmpc
+killall mpd
+wwwwwwwwwwclear
+clear
+mpd
+cava
+clear
+fastfetch
+ls
+clear
+ls
+clear
+exit
+exit
+rmpc
+killall mpd
+kew
+exit
+exit
+clears
+ls
+clears
+clear
+mpd
+killall mpd
+exit
+kew
+cd .termyx
+cd .termux
+ls
+cd
+hx .termux
+..
+hx usr/bin/ytfzf
+cd
+ytfzf
+reset
+..
+cp -r usr/bin/ytfzf ~/
+cd
+rm ytfzf ytfzf.txt
+ls
+..
+cp -r usr/bin/ytfzf ~/
+cd
+mv ytfzf ytfzf.txt
+clear
+ls
+ytfzf
+clear
+hx .config
+clear
+ls
+clear
+ls
+clear
+ls
+mv  ytfzf.txt ytmusic
+ls
+clear
+./ytmusic
+clear
+ls
+hx ytmusic
+kew
+clear
+reset
+ls
+./ytmusic
+hx .config
+clear
+ls
+..
+ls
+cdshared_prefs
+cd shared_prefs
+ls
+clear
+..
+ls
+cd cache
+ls
+cd
+..
+cd usr/tmp
+ls
+cd yt-fzf-cache-3469
+la
+clear
+..
+clear
+./ytmusic
+ls
+clear
+clear
+hx .ytmusic
+hx ytmusic
+clear
+ls
+clear
+hx ytmusic
+ls
+ls yt-fzf-cache-7361
+clear
+ls yt-fzf-cache-7361 | select name
+clear
+ls
+cd
+clear
+..
+cd yt-fzf-cache-3469
+cd usr/tmp
+clear
+./ytmusic
+exit
+cd
+clear
+exit
+l
+ls
+clear
+ls
+clear
+hx ytmusic
+exit
+exit
+ls
+hx .termux
+hx ytmusic
+exit
+apt install pcmanfm
+apt install pcmanfm --no-install-recommends
+apt install firefox --no-install-recommends
+apt install midori --no-install-recommends
+apt install librewolf --no-install-recommends
+apt install firefox --no-install-recommends
+apt update | apt upgrade
+y
+reset
+apt update | apt upgrade
+q
+apt updaye
+apt update
+apt upgrade
+ls
+apt install firefox --no-install-recommends
+./start
+killall firefox
+killall openbox
+./start
+pcmanfm
+exit
+config nu
+config env
+exec ny
+exit
+mkdir blue
+ls
+clear
+apt install starship --no-install-recommends
+clear
+la
+ls
+clear
+apt install clang --no-install-recommends
+ls
+clear
+apt install mpv --no-install-recommends
+apt install kew --no-install-recommends
+apt install mpv --no-install-recommends
+apt autoremove game-music-emu
+apt autoremove mesa-vulkan-icd-swrast
+apt autoremove libwayland
+apt autoremove mesa-vulkan-icd-freedreno
+apt autoremove
+clear
+apt install yazi --no-install-recommends
+yazi
+apt install file --no-install-recommends
+apt install kew --no-install-recommends
+apt install python-pip
+apt install python-pip --no-install-recommends
+pip install -U --pre yt-dlp
+clear
+apt autoremove mesa-vulkan-icd-freedreno
+apt autoremove libwayland
+apt autoremove libx12
+apt autoremove libx11
+apt install pango --no-install-recommends
+apt autoremove pango
+pip install mutagen
+clear
+exit
+ls
+kew
+clear
+mkdir ($nu.data-dir | path join "vendor/autoload")<\n>starship init nu | save -f ($nu.data-dir | path join "vendor/autoload/starship.nu")
+exit
+..
+cd
+apt install helix --no-install-recommends
+hx
+clear
+ls
+apt install fastfetch --no-install-recommends
+fastfetch
+clear
+fastfetch
+clear
+exit
+fastfetch
+..
+cd usr/etc
+rm motd
+clear
+ls
+clear
+cd
+exit
+fastfetch
+ls
+clear
+fastfetch
+exit
+exit
+exit
+fastfetch
+clear
+fastfetch
+ls
+fastfetch
+clear
+fastfetch
+ls
+kew
+clesr
+clear
+exit
+fastfetch
+clear
+ls
+ll
+clear
+ls
+yazi
+bash
+clear
+fastfetch
+ls
+lla
+la
+clear
+fastfetch
+la
+ll
+clear
+fastfetch
+ls
+la
+kew
+clear
+fastfetch
+kew
+reset
+fastfetch
+ls
+la
+kew
+clear
+mkdir project
+cd project
+hx main.cpp
+clang++ main.cpp -o app
+./app
+reset
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+hx main.cpp
+clang++ main.cpp -o app
+./app
+m
+./app
+hx main.cpp
+kew
+reset
+clear
+cd
+hx ytmusic
+chmod +x ytmusic
+./ytmusic
+apt install jq
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytfzf
+apt install tput
+tput
+chmod +x ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx .config
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+hx .config
+./ytfzf
+hx .config
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+mv  ytfzf ytfzf.txt
+hx ytfzf
+mv ytfzf.txt ytfzf
+hx ytfzf
+hx .config
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+./ytfzf > log.txt 2>&1
+./ytfzf
+ls
+bash
+ls
+cd storage/shared/pictures/via
+ls
+img2sixel --help
+img2sixel 230 images.jpg
+img2sixel 230 images.jpe
+img2sixel 230 images.jpeg
+ls
+img2sixel images.jpeg
+chafa -f sixel images.jpeg
+img2sixel -w 230 sixel images.jpeg
+..
+ls
+cd pinterest
+ls
+img2sixel -w 230 sixel sky.jpg
+img2sixel -w 230 sky.jpg
+img2sixel sky.jpg
+clear
+img2sixel -w 300 sky.jpg
+img2sixel -w 300 > sky.jpg > sky.sixel
+img2sixel -w 300 < sky.jpg > sky.sixel
+ls
+img2sixel -w 300 < sky.jpg > skyrim.sixel
+ls
+img2sixel -w 300 sky.jpg >> skyrim.sixel
+ls
+img2sixel -w 300 sky.jpg >> skyrim.six
+img2sixel -w 300 sky.jpg > skyrim.six
+img2sixel -w 300 < sky.jpg > skyrim.six
+img2sixel -w 300 > sky.jpg > skyrim.six
+img2sixel -w 300 sky.jpg > skyrim.sixel
+mv sky.jpg ~/
+cd
+img2sixel -w 300 sky.jpg > skyrim.sixel
+img2sixel -w 300 sky.jpg > sky.sixel
+img2sixel -w > 300 sky.jpg > sky.sixel
+img2sixel -w 300 > sky.jpg > sky.sixel
+img2sixel sky.jpg > sky.sixel
+img2sixel < sky.jpg > sky.six
+img2sixel < sky.jpg > sky.sixel
+l
+ls
+img2sixel < ~/sky.jpg > sky.sixel
+img2sixel < ~/sky.jpg > sky.six
+img2sixel ~/sky.jpg > sky.six
+img2sixel >> ~/sky.jpg >> sky.six
+img2sixel -w 230 < sky.jpg > sky.sixel
+img2sixel -w 230 sky.jpg > sky.sixel<\n>
+img2sixel --help
+img2sixel -w 230 < sky.jpg < sky.sixel<\n>
+img2sixel -w 230 sky.jpg < sky.sixel<\n>
+img2sixel -w 230 sky.sixel < sky.jpg<\n>
+img2sixel -w 230 sky.sixel < sky.jpg
+apt install libjpg
+apt install libsixel
+apt install libsixel-tool
+apt install libsixel-tools
+apt install libsixel-bin
+cd .config/fastfetch
+ls
+cd
+convert sky.jpg sky.sixel
+ls
+hx .config
+fas 
+fastfetch
+hx .config
+clear
+hx .config
+fastfetch
+clear
+hx .config
+cd .config/fastfetch
+nano config.jsonc
+exit
+bash
+clear
+exit
+ls
+fastfetch
+kew
+clear
+reset
+clear
+ls
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+clear
+cd storage/dcim
+ls
+cd video
+ls
+mpv --msg-level=all=no,cplayer=status dragon.mkv
+mpv --no-term-status,cplayer=status dragon.mkv
+mpv --really-quiet,cplayer=status dragon.mkv
+mpv --really-quiet --cplayer=status dragon.mkv
+mpv --really-quiet dragon.mkv
+mpv mpv --msg-level=all=no --term-status-msg="Progress: \${time-pos} / \${duration} (\${percent-pos}%)" dragon.mkv
+hx ytfzf
+cd
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+cd storage/dcim/video
+ls
+--msg-level=cplayer=warn --term-status-msg="Status: \${time-pos} / \${duration}" dragon.mkv
+mpv --msg-level=cplayer=warn --term-status-msg="Status: \${time-pos} / \${duration}" dragon.mkv
+cd
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+hx
+hx ytfzf
+./ytfzf
+hx ytfzf
+hx .config
+./ytfzf
+hx usr/bin/ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+exit
+mv ytfzf ytfzf.txt
+clesr
+clear
+exit
+mv ytfzf.txt ytfzf
+clear
+./ytfzf
+..
+cd usr/tmp
+ls
+open yt-fzf-cache-8753
+clear
+ls
+ls yt-fzf-cache-8753 | where typ == file
+ls yt-fzf-cache-8753 | where type == file
+clear
+ls
+ls yt-fzf-cache-8753 | select name
+clear
+ls
+clear
+cd
+m.
+..
+cd usr/tmp
+ls
+ls yt-fzf-cache-8753 | select name
+cd
+clear
+ls
+clear
+./ytfzf
+clear
+./ytfzf
+clear
+..
+cd usr/tmp
+ls
+ls yt-fzf-cache-21096
+./ytfzf
+ls
+clear
+ls
+hx ytfzf
+clesr
+clear
+fastfetch
+clear
+hx .config
+clear
+fastfetch
+ls
+clear
+cd
+clear
+exit
+fzf
+apt install mpd
+apt update
+apt install mpd
+ls
+cd .config/mpd
+mkdir .config/mpd
+cd .config/mpd
+ls
+cd
+y
+ls /storage/4572-1409/
+cd /storage/4572-1409/LOST.DIR
+ls
+cp -r rish /data/data/com.termux/files/usr/bin/
+cp -r rish_shizuku.dex /data/data/com.termux/files/usr/bin/
+cd
+..
+cd usr/bin
+chmod +x rish
+cd
+y
+clear
+y
+apt install git
+cd .config/mpd
+hx main.cpp
+hx mpd.conf
+mpd
+hx mpd.conf
+killall mpd
+mpd
+touch tag_cache
+playlist tag_cache
+touch playlist
+killall mpd
+mpd
+touch playlists
+ls
+killall mpd
+mpd
+rm playlists
+rm playlist
+mkdir playlists
+killall mpd
+mpd
+clear
+rmpc
+apt install rmpc
+rmpc
+killall mpd
+clear
+ls
+clesr
+clear
+ls
+hx mpd.conf
+killall mpd
+mpd
+killall mpd
+hx mpd.conf
+killall mpd
+mpf
+mpd
+clear
+cd
+rmpc
+ls
+hx mpd.conf
+cd .config/mpd
+hx mpd.conf
+cd ..
+cd rmpc
+hx config.ron
+killall mpd
+mpd
+rmpc
+hx config.ron
+rmpc
+ls
+cd ..
+ls
+hx starship.toml
+apt install cmus
+cmus
+cd rmpc
+mv config.ron ron
+killall mpd
+mpd
+rmpc
+mv ron config.ron
+ls
+cd ..
+killall mpd
+exit
+nano mpd.conf
+exit
+mpd
+rmpc
+apt install mpc
+mpc update
+cava
+apt install cava
+cd .config
+ls
+cd
+mkdir dotfiles
+y
+cd dotfiles
+ls
+rm Screenshot_2026-08-28-17-38-03-97_1.jpg
+y
+cp -r .config ~/dotfiles
+cp -r ~/.config ~/dotfiles
+la
+cd .config
+ls
+..
+clear
+ls
+cp -r ytfzf ~/dotfiles
+ls
+cd .config
+ls
+cd ..
+cd dotfiles
+ls
+la
+cd ..
+cd storage/shared/dotfiles/
+ls
+cp -r nvim-path ~/dotfiles
+cp -r livecoding ~/dotfiles
+cd
+cd dotfilws
+cd dotfiles
+ls
+git init
+apt install gh
+gh auth logij
+gh auth login
+git init
+la
+git branch -M main
+ls
+git add
+git add .
+rm *.jpg
+ls
+git add .
+git commit -m "MY-DOTFILES"
+git config --global user.name "hibonesu"
+git commit -m "MY-DOTFILES"
+ls
+git remote add origin https://github.com/hibonesu/Dotfiles-blue-gradient.git
+git branch -M main
+git push -u origin main
+git pull origin main --rebase
+git push -u origin main --force
+git branch -M main
+git pull origin main --allow-unrelated-histories --no-edit
+git push -u origin main
+git add .
+git commit -m "my-dotfiles"
+git config --global user.email "hibonesu@gmail.com"
+git config --global user.name "hibonesu"
+git commit -m "my-dotfiles"
+git push origin main
+ls
+cd
+cd storage/shared/dcim/Screenshots
+ls
+mv Record_2026-08-28-16-25-50.mp4 ~/dotfiles/
+cdd
+cs
+cd
+ls
+cd dotfiles
+ls
+rm -r -f Record_2026-08-28-16-25-50.mp4
+y
+git add Record_2026-08-28-16-25-50.mp4
+git add "Record_2026-08-28-16-25-50.mp4"
+ls
+git add Record_2026-08-28-16-57-21.mp4
+tsu
+apt install tsu
+tsu
+git add Record_2026-08-28-16-57-21.mp4
+git commit -m "Menambahkan video rekaman tutorial bagian 1"<\n>
+apt install git-lfs
+git lfs install
+ls
+git lfs track "*.mp4"
+open '/data/data/com.termux/files/home/dotfiles/.git/lfs/logs/20260828T125721.877704753.log'
+clear
+git lfs track *.mp4
+ls
+rm -r -f Record_2026-08-28-16-57-21.mp4
+ls
+y
+ls
+git lfs track Record_2026-08-28-16-57-21.mp4
+git add .gitattributes Record_2026-08-28-16-57-21.mp4
+git add .gitattributes 'Record_2026-08-28-16-57-21.mp4'
+git add .gitattributes video.mp4
+la
+git add .gitattributes Record_2026-08-28-16-57-21.mp4
+tsu
+git add .gitattributes Record_2026-08-28-16-57-21.mp4
+git commit -m "docs: add demo video via LFS"
+git push origin main
+git pull origin main
+git push origin maingit pull origin main --rebase
+git push origin maingit pull origin main
+clear
+ls
+hx ytfzf
+cd
+./ytfzf
+exit
+rmpc
+killall mpd
+exit
+cava
+exit
+exit
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+pip install opentune
+opentune "breakcore"
+opentune "duvet"
+clear
+apt autoremove git
+apt autoremove git-lns
+apt autoremove git-lsn
+apt autoremo
+./ytfzf
+hx ytmusic
+..
+cd usr/tmp
+ls
+cd yt-fzf-cache-29567
+ls
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytfzf
+./ytfzf
+nano ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytfzf
+cd
+cd storage/shared/dcim/video
+ls
+./ytfzf
+mpv --msg-level=ffmpeg=fatal,cplayer=warn dragon.mkv
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytmusic
+cd
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+ytfzf
+./ytmusic
+apt install git
+apt install git-lfs
+ls
+cd dotfiles
+ls
+rm ytfzf
+..
+cp -r ytmusic ~/dotfiles
+cd dotfiles
+mv ytmusic ytfzf
+hx ytfzf
+ls
+git status
+git add ytfzf
+git commit -m "feat: add autoplay toggle and fix sixel preview"
+git push origin main
+git pull --rebase origin main
+git add ytfzf<\n>
+git rebase --continue
+git push origin main
+./ytfzf
+ls
+cp -r ytfzf ~/
+cd
+./ytfzf
+ls
+rm ytfzf
+./ytmusic
+hx ytmusic
+./ytmusic
+hx ytmusic
+cp -r ytmusic ~/dotfiles
+cd dotfiles
+ls
+rm ytfzf
+mv ytmusic ytfzf
+git add ytfzf<\n>
+git push origin main
+git pull --rebase origin main
+git commit -m "feat: mini fixed keybind"
+git pull --rebase origin main
+git push origin main
+cd
+hx ytmusic
+./ytmusic
+./ytmusic
+hx ytmusic
+hx ytfzf
+chmod +x ytfzf
+./ytfzf
+rm ytfzf
+./ytmusic
+clear
+./ytmusic
+clesr
+clear
+ls
+cd music
+cd Music
+ls
+cd
+clear
+ls
+mv ytmusic ytfzf
+mv ytfzf /data/data/com.termux/files/usr/bin/
+..
+cd
+ytfzf
+..
+cd usr/bin
+hx ytfzf
+cd
+ytfzf
+..
+cd usr/bin
+cp -r ytfzf ~/
+cd
+mv ytfzf ytfzf.txt
+mv ytfzf.txt ytfzf
+hx ytm 
+hx ytmusic
+chmod +x ytmusic
+./ytmusic
+ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+exit
+./ytfzf
+clear
+exit
+ytfzf
+ls
+rm ytmusic
+cp -r ytfzf ~/dotfiles
+cd dotfiles
+mv ytfzf ytfzf.txt
+hx ytfzf
+cd
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+hx ytfzf
+./ytfzf
+ls
+hx ytmusic
+chmod +x ytmusic
+./ytfzf
+./ytmusic
+clear
+ls
+exit
+exit
+kew
+reset
+kew
+clear
+ls
+clear
+./ytmusic
+rm ytmusic
+./ytfzf
+hx ytfzf
+./ytfzf
+ls
+rm ytfzf
+..
+cd usr/bin
+hx ytfzf
+cd
+ytfzf
+..
+cd usr/bin
+hx ytfzf
+y
+ytfzf
+hx ytfzf
+cd
+ytfzf
+..
+hx usr/bin/ytfzf
+ytfzf
+hx usr/bin/ytfzf
+ytfzf
+cd
+ls
+hx ytfzf
+chmod +x ytfzf
+./ytfzf
+hx ytfzf
+ytfzf
+clear
+ls
+rm -r -f dotfiles
+mkdir dotfiles
+cd dotfiles
+cp -r ~/.config ~/dotfiles
+cp -r ~/.termux ~/dotfiles
+ls
+cd ..
+ls
+cd dotfiles
+ls
+cd ..
+la
+mkdir dotfiles
+cd dotfiles
+ls
+cd ..
+cp -r .termux ~/dotfiles
+cd dotfiles
+ls
+cd ..
+ls
+rm -r -f dotfiles
+mkdir blue
+cp -r .termux ~/blue
+cd blue
+ls
+exit
+ls
+cd blue
+ls
+cd
+la

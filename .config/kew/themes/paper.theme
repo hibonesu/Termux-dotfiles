@@ -1,0 +1,60 @@
+# ============================================
+# PAPER (Soft Light Theme)
+# ============================================
+
+[theme]
+name=Paper
+
+# Core colors
+accent=#6b7f96
+text=#5a5a5a
+textDim=#707070
+textMuted=#8a8a8a
+
+# General Colors
+logo=#8a8a8a
+header=#8a8a8a
+footer=#8a8a8a
+help=#8a8a8a
+link=#6b7f96
+nowplaying=#6b8f8f
+playbackstatus=#8a8a8a
+
+# Playlist View
+playlist.rownum=#4a4a4a
+playlist.title=#8a8a8a
+playlist.playing=#6b8f8f
+
+# Track View
+trackview.title=#6b8f8f
+trackview.artist=#8a8a8a
+trackview.album=#8a8a8a
+trackview.year=#8a8a8a
+trackview.time=#8a8a8a
+trackview.visualizer=#7a8a8a
+trackview.lyrics=#8a8a8a
+
+# Library View
+library.artist=#6b8f8f
+library.album=#8a8a8a
+library.track=#8a8a8a
+library.enqueued=#6b8f8f
+library.playing=#6b8f8f
+
+# Search
+search.label=#8a8a8a
+search.query=#6b7f96
+search.result=#5a5a5a
+search.enqueued=#6b8f8f
+search.playing=#6b8f8f
+
+# Progress
+progress.filled=#6b8f8f
+progress.empty=#8a8a8a
+progress.elapsed=#6b8f8f
+
+# Status
+status.info=-1      	# Default foreground
+status.warning=#787878  # The old school gray, this works on most terminals
+status.error=#787878  	# The old school gray, this works on most terminals
+status.success=#787878  # The old school gray, this works on most terminals

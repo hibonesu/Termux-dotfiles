@@ -1,0 +1,47 @@
+pane_frames true
+simplified_ui true
+mouse_mode false
+pane_frames false
+show_startup_tips false
+
+// Bikin keybind serba Alt (tanpa prefix), persis kayak tmux lo
+keybinds {
+    unbind "Ctrl p" "Ctrl t" "Ctrl o" "Ctrl r" // Hapus mode bawaan biar ga ribet
+
+    shared_except "locked" {
+        // Split Pane (Alt+Shift+T buat horizontal, Alt+t buat vertikal)
+        bind "Alt T" { NewPane "Right"; }
+        bind "Alt t" { NewPane "Down"; }
+
+        // Navigation Pane (Vim style: Alt + h/j/k/l)
+        bind "Alt h" { MoveFocus "Left"; }
+        bind "Alt j" { MoveFocus "Down"; }
+        bind "Alt k" { MoveFocus "Up"; }
+        bind "Alt l" { MoveFocus "Right"; }
+
+        // Close Pane
+        bind "Alt q" { CloseFocus; }
+
+        // New Tab / Window
+        bind "Alt c" { NewTab; }
+
+        // Switch Tab (Alt + 1..9)
+        bind "Alt 1" { GoToTab 1; }
+        bind "Alt 2" { GoToTab 2; }
+        bind "Alt 3" { GoToTab 3; }
+        bind "Alt 4" { GoToTab 4; }
+        bind "Alt 5" { GoToTab 5; }
+        bind "Alt 6" { GoToTab 6; }
+        bind "Alt 7" { GoToTab 7; }
+        bind "Alt 8" { GoToTab 8; }
+        bind "Alt 9" { GoToTab 9; }
+
+        // Resize Pane (Alt + Shift + H/J/K/L)
+        bind "Alt H" { Resize "Increase Left"; }
+        bind "Alt J" { Resize "Increase Down"; }
+        bind "Alt K" { Resize "Increase Up"; }
+        bind "Alt L" { Resize "Increase Right"; }
+        bind "Alt f" {ToggleFloatingPanes;}
+        bind "Alt r" {SwitchToMode "Resize"; Resize "Increase"; Resize "Increase"; Resize "Increase"; Resize "Increase"; Resize "Increase"; Resize "Increase"; Resize "Increase"; SwitchToMode "Normal";}
+    }
+}

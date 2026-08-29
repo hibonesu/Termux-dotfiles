@@ -1,0 +1,142 @@
+# Config kew - Minimal, Precise, & Dynamic Theme
+
+[miscellaneous]
+path=/storage/4572-1409/music
+useArtistsDb=1
+
+allowNotifications=1
+stripTrackNumbers=1
+hideLogo=1
+hideHelp=1
+hideTimeStatus=0
+simpleTimeStatus=1
+hideFooter=1
+hideSideCover=1
+collapseTopLevel=1
+autoResume=1
+
+titleDelay=0
+quitOnStop=0
+clearListClearsAll=1
+hideGlimmeringText=1
+
+# 0=track, 1=album, 2=disabled (Meratakan volume lagu)
+replayGainCheckFirst=0
+
+saveRepeatShuffleSettings=1
+repeatState=0
+shuffleEnabled=0
+trackTitleAsWindowTitle=1
+
+
+[colors]
+theme=
+
+# 0=Default 16-bit, 1=One Album Color, 2=TrueColor, 3=Album Colors
+# Mode 2 menyesuaikan warna UI secara presisi dengan cover album
+colorMode=3
+
+
+[crossfade]
+alwaysCrossfade=0
+fadeEnterSongMs=0
+fadeQuickMs=2000
+fadeMediumMs=4000
+fadeSlowMs=8000
+
+
+[track cover]
+coverEnabled=1
+coverAnsi=0
+# Opsi style: auto, kitty, sixels, block, braille, ascii
+coverStyle=kitty
+
+
+[mouse]
+mouseEnabled=0
+
+
+[discord]
+discordRPCEnabled=0
+
+
+[chroma]
+chromaPath=
+chromaDevice=
+
+
+[visualizer]
+# 0=lighten, 1=flat, 3=party, 4=vibrant
+visualizerColorType=3
+visualizerHeight=12
+visualizerBrailleMode=8
+visualizerBarWidth=0
+
+
+[progress bar]
+# Progress bar tebal, rapi, dan presisi
+progressBarElapsedEvenChar=━
+progressBarElapsedOddChar=━
+progressBarApproachingEvenChar=━
+progressBarApproachingOddChar=━
+progressBarCurrentEvenChar=━
+progressBarCurrentOddChar=━
+
+
+[key bindings]
+bind = Space, playPause
+bind = Shift+Tab, prevView
+bind = Tab, nextView
+bind = +, volUp, +5%
+bind = =, volUp, +5%
+bind = -, volDown, -5%
+bind = h, prevSong
+bind = l, nextSong
+bind = k, scrollUp
+bind = j, scrollDown
+bind = p, playPause
+bind = n, toggleNotifications
+bind = z, toggleCrossfade
+bind = v, toggleVisualizer
+bind = b, toggleAscii
+bind = r, toggleRepeat
+bind = i, cycleColorMode
+bind = t, cycleThemes
+bind = c, cycleVisualization
+bind = s, shuffle
+bind = a, seekBack
+bind = d, seekForward
+bind = o, sortLibrary
+bind = m, showLyricsPage
+bind = Shift+s, stop
+bind = x, exportPlaylist
+bind = ., addToFavorites_playlist
+bind = u, updateLibrary
+bind = f, moveSongUp
+bind = g, moveSongDown
+bind = Enter, enqueue
+bind = Backspace, clearPlaylist
+bind = Ctrl+g, enqueueAndPlay
+bind = Alt+Enter, enqueueAndPlay
+bind = Left Arrow, prevSong
+bind = Right Arrow, nextSong
+bind = Up Arrow, scrollUp
+bind = Down Arrow, scrollDown
+bind = Shift+z, showPlaylist
+bind = Shift+x, showLibrary
+bind = Shift+c, showTrack
+bind = Shift+v, showSearch
+bind = Shift+b, showHelp
+bind = Shift+d, crossfadequick
+bind = Shift+f, crossfademedium
+bind = Shift+g, crossfadeslow
+bind = PgDn, nextPage
+bind = PgUp, prevPage
+bind = Del, remove
+bind = mouseLeft, enqueue
+bind = mouseMiddle, enqueueAndPlay
+bind = mouseRight, playPause
+bind = mouseWheelDown, scrollDown
+bind = mouseWheelUp, scrollUp
+bind = q, quit
+bind = Esc, quit

@@ -1,0 +1,60 @@
+============================================
+7. MIDNIGHT (Pure Minimalism)
+============================================
+
+[theme]
+name=Midnight
+
+# Core colors
+accent=#ffffff
+text=#cccccc
+textDim=#888888
+textMuted=#444444
+
+# General Colors
+logo=#444444
+header=#787878
+footer=#444444
+help=#aaaaaa
+link=#aaaaaa
+nowplaying=#aaaaaa
+playbackstatus=#444444
+
+# Playlist View
+playlist.rownum=#444444
+playlist.title=#aaaaaa
+playlist.playing=#787878
+
+# Track View
+trackview.title=#888888
+trackview.artist=#aaaaaa
+trackview.album=#aaaaaa
+trackview.year=#aaaaaa
+trackview.time=#aaaaaa
+trackview.visualizer=15
+trackview.lyrics=#aaaaaa
+
+# Library View
+library.artist=#787878
+library.album=#888888
+library.track=#aaaaaa
+library.enqueued=#787878
+library.playing=#787878
+
+# Search
+search.label=#888888
+search.query=#aaaaaa
+search.result=#aaaaaa
+search.enqueued=#787878
+search.playing=#787878
+
+# Progress
+progress.filled=#ffffff
+progress.empty=#787878
+progress.elapsed=#ffffff
+
+# Status
+status.info=-1      	# Default foreground
+status.warning=#787878  # The old school gray, this works on most terminals
+status.error=#787878  	# The old school gray, this works on most terminals
+status.success=#787878  # The old school gray, this works on most terminals

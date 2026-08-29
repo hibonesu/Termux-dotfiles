@@ -1,0 +1,26 @@
+#!/bin/sh
+file="$1"
+width="$2"
+height="$3"
+
+# Detect file type using the file utility
+mime=$(file -Lb --mime-type "$file")
+
+case "$mime" in
+    # Syntax-highlighted text preview using bat
+    text/*|application/json|application/javascript|application/xml)
+        bat --color=always --style=plain "$file"
+        ;;
+    # Image preview using chafa via sixel graphics
+    image/*)
+        chafa -s "${width}x${height}" --format=sixel "$file"
+        ;;
+    # Fallback to a basic directory list or standard info
+    *)
+        if [ -d "$file" ]; then
+            ls -la "$file"
+        else
+            echo "Cannot preview: $mime"
+        fi
+        ;;
+esac

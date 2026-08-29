@@ -1,0 +1,60 @@
+# ============================================
+# GRUVBOX (Warm Retro)
+# ============================================
+
+[theme]
+name=Gruvbox
+
+# Core colors
+accent=#fabd2f
+text=#dbc4a1
+textDim=#d5c4a1
+textMuted=#928374
+
+# General Colors
+logo=#928374
+header=#83a598
+footer=#928374
+help=#dbc4a1
+link=#98971a
+nowplaying=#d79921
+playbackstatus=#928374
+
+# Playlist View
+playlist.rownum=#928374
+playlist.title=#dbc4a1
+playlist.playing=#ebdbb2
+
+# Track View
+trackview.title=#ebdbb2
+trackview.artist=#a89984
+trackview.album=#a89984
+trackview.year=#a89984
+trackview.time=#a89984
+trackview.visualizer=#83a598
+trackview.lyrics=#a89984
+
+# Library View
+library.artist=#83a598
+library.album=#dbc4a1
+library.track=#dbc4a1
+library.enqueued=#83a598
+library.playing=#ebdbb2
+
+# Search
+search.label=#928374
+search.query=#83a598
+search.result=#dbc4a1
+search.enqueued=#83a598
+search.playing=#ebdbb2
+
+# Progress
+progress.filled=#928374
+progress.empty=#665c54
+progress.elapsed=#928374
+
+# Status
+status.info=-1      	# Default foreground
+status.warning=#787878  # The old school gray, this works on most terminals
+status.error=#787878  	# The old school gray, this works on most terminals
+status.success=#787878  # The old school gray, this works on most terminals

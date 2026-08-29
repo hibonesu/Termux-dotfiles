@@ -1,0 +1,12 @@
+{"timestamp":244697348,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","glean_timestamp":"1787832358919","can_load":"true","loadfail_reason":"N/A"}}
+{"timestamp":244697350,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1787832358920","loadfail_reason":"N/A","path_key":"clean","can_load":"true"}}
+{"timestamp":244697353,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","shutdown_reason":"N/A","glean_timestamp":"1787832358923"}}
+{"timestamp":244700315,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1787832361886","value":"error_notfounderror"}}
+{"timestamp":244701933,"category":"nimbus_events","name":"startup_database_consistency","extra":{"db_active_count":"2","primary":"database","total_db_count":"2","total_store_count":"2","store_active_count":"2","trigger":"startup","glean_timestamp":"1787832363504"}}
+{"timestamp":244702102,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"error_notfounderror","glean_timestamp":"1787832363672"}}
+{"timestamp":244702358,"category":"doh","name":"state_rollback","extra":{"value":"null","glean_timestamp":"1787832363928"}}
+{"timestamp":244703267,"category":"containers","name":"container_profile_loaded","extra":{"glean_timestamp":"1787832364838","containers":"4"}}
+{"timestamp":244705653,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1787832367224"}}
+{"timestamp":244706061,"category":"translations","name":"identify_page_language","extra":{"extracted_code_units":"50","identified_language":"en","html_lang_attribute":"","confident":"false","identification_time":"1863.8040769999989","glean_timestamp":"1787832367632"}}
+{"timestamp":244706068,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1787832367639"}}
+{"timestamp":244708430,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1787832370001"}}

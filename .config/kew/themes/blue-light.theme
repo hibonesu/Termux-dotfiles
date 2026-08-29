@@ -1,0 +1,61 @@
+# ============================================
+# Custom Theme
+# ============================================
+
+[theme]
+name=blue-light
+author=pixel-peepers
+
+# Core colors
+accent=#89b4fa
+text=#cdd6f4
+textDim=#a4c2f4
+textMuted=#7494d4
+
+# General Colors
+logo=#89b4fa
+header=#89b4fa
+footer=#a4c2f4
+help=#a4c2f4
+link=#89b4fa
+nowplaying=#89b4fa
+playbackstatus=#1e2a44
+
+# Playlist View
+playlist.rownum=#7494d4
+playlist.title=#cdd6f4
+playlist.playing=#89b4fa
+
+# Track View
+trackview.title=#a4c2f4
+trackview.artist=#a4c2f4
+trackview.album=#a4c2f4
+trackview.year=#a4c2f4
+trackview.time=#a4c2f4
+trackview.visualizer=#a4c2f4
+trackview.lyrics=#a4c2f4
+
+# Library View
+library.artist=#89b4fa
+library.album=#a4c2f4
+library.track=#cdd6f4
+library.enqueued=#a4c2f4
+library.playing=#89b4fa
+
+# Search
+search.label=#89b4fa
+search.query=#cdd6f4
+search.result=#cdd6f4
+search.enqueued=#a4c2f4
+search.playing=#89b4fa
+
+# Progress
+progress.filled=#89b4fa
+progress.empty=#313a5f
+progress.elapsed=#89b4fa
+
+# Status
+status.info=-1
+status.warning=#7394d6
+status.error=#4564a8
+status.success=#5b7cc0

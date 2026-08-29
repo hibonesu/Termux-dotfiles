@@ -1,0 +1,16 @@
+kew themes pack 2.
+
+Included in this pack:
+
+neutral
+catpucchin
+
+To apply, run:
+
+kew theme <theme> # filename without the .theme part
+
+Or cycle by pressing 't'.
+
+These should be available under /themes here, in case you need to restore them to defaults:
+https://codeberg.org/ravachol/kew
+https://github.com/ravachol/kew
